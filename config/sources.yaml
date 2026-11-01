@@ -28,7 +28,7 @@
 
 settings:
   # Sent in the scraper's User-Agent so boards can contact you.
-  contact: "https://github.com/readschool/harrison-exam-finder"
+  contact: "https://github.com/lukeharrison1990/harrison-exam-finder"
 
 discovery:
   # ---------------------------------------------------------------- AQA ----
