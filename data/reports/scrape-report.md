@@ -1,11 +1,11 @@
 # Scrape report
 
-Generated 2026-10-26T05:08:01+00:00
+Generated 2026-11-02T05:26:28+00:00
 
 - Pages read: 286
 - Working well: 159
 - Need attention: 127
-- Documents kept: 25345
+- Documents kept: 25160
 
 ## Qualifications found
 
@@ -21,16 +21,16 @@ Generated 2026-10-26T05:08:01+00:00
 |---|---|---|---|---|
 | aqa-gcse-biology-8461 | 367 | 124 | 139 | Many unclassified links |
 | aqa-gcse-chemistry-8462 | 515 | 169 | 195 | Many unclassified links |
-| aqa-gcse-english-language-8700 | 437 | 120 | 185 | Many unclassified links |
+| aqa-gcse-english-language-8700 | 463 | 125 | 202 | Many unclassified links |
 | aqa-gcse-english-literature-8702 | 246 | 84 | 98 | Many unclassified links |
-| aqa-gcse-geography-8035 | 428 | 110 | 171 | Many unclassified links |
+| aqa-gcse-geography-8035 | 0 | 0 | 0 | No PDF links found |
 | aqa-gcse-history-8145 | 1691 | 453 | 591 | Many unclassified links |
-| aqa-gcse-mathematics-8300 | 1369 | 466 | 476 | Many unclassified links |
+| aqa-gcse-mathematics-8300 | 1370 | 466 | 476 | Many unclassified links |
 | aqa-a-level-biology-7402 | 328 | 120 | 121 | Many unclassified links |
 | aqa-a-level-business-new-7138 | 42 | 0 | 16 | Links found but none classified |
 | aqa-a-level-chemistry-7405 | 550 | 179 | 201 | Many unclassified links |
-| aqa-a-level-geography-7037 | 282 | 82 | 111 | Many unclassified links |
-| aqa-a-level-history-7042 | 1725 | 513 | 583 | Many unclassified links |
+| aqa-a-level-geography-7037 | 0 | 0 | 0 | No PDF links found |
+| aqa-a-level-history-7042 | 1721 | 515 | 583 | Many unclassified links |
 | aqa-a-level-physics-7408 | 1190 | 425 | 440 | Many unclassified links |
 | aqa-a-level-psychology-7182 | 288 | 88 | 112 | Many unclassified links |
 | aqa-a-level-sociology-7192 | 255 | 87 | 104 | Many unclassified links |
@@ -123,8 +123,8 @@ Generated 2026-10-26T05:08:01+00:00
 | aqa-gcse-physics-8463 | 554 | 152 | 213 | Many unclassified links |
 | aqa-gcse-polish-8688 | 487 | 188 | 195 | Many unclassified links |
 | aqa-gcse-psychology-8182 | 147 | 47 | 58 | Many unclassified links |
-| aqa-gcse-religious-studies-8061 | 385 | 130 | 152 | Many unclassified links |
-| aqa-gcse-religious-studies-8062 | 743 | 239 | 290 | Many unclassified links |
+| aqa-gcse-religious-studies-8061 | 386 | 130 | 153 | Many unclassified links |
+| aqa-gcse-religious-studies-8062 | 744 | 239 | 291 | Many unclassified links |
 | aqa-gcse-religious-studies-8063 | 363 | 123 | 142 | Many unclassified links |
 | aqa-gcse-sociology-8192 | 148 | 46 | 59 | Many unclassified links |
 | aqa-gcse-spanish-8692 | 71 | 0 | 25 | Links found but none classified |
@@ -132,7 +132,7 @@ Generated 2026-10-26T05:08:01+00:00
 | aqa-gcse-statistics-8382 | 373 | 143 | 153 | Many unclassified links |
 | aqa-gcse-urdu-8648 | 493 | 167 | 199 | Many unclassified links |
 | aqa-level-3-certificate-mathematical-studies-1350 | 743 | 212 | 295 | Many unclassified links |
-| aqa-level-3-certificate-level-3-extended-project-qualification-7993 | 34 | 12 | 15 | Many unclassified links |
+| aqa-level-3-certificate-level-3-extended-project-qualification-7993 | 35 | 12 | 16 | Many unclassified links |
 | ocr-gcse-art-and-design-j170-j176 | 12 | 0 | 6 | Links found but none classified |
 | ocr-a-level-business-h436 | 4 | 0 | 3 | Links found but none classified |
 | ocr-a-level-music-h143-h543 | 60 | 34 | 13 | Many unclassified links |
@@ -153,16 +153,16 @@ Generated 2026-10-26T05:08:01+00:00
 |---|---|---|---|---|
 | aqa-gcse-biology-8461 | 367 | 124 | June 2018 to June 2025 | stopped paging after page 15: Next button could not be clicked; read 15 pages of results |
 | aqa-gcse-chemistry-8462 | 515 | 169 | June 2018 to June 2025 | stopped paging after page 20: Next button could not be clicked; read 20 pages of results |
-| aqa-gcse-english-language-8700 | 437 | 120 | June 2018 to June 2025 | stopped paging after page 19: Next button could not be clicked; read 19 pages of results |
+| aqa-gcse-english-language-8700 | 463 | 125 | June 2018 to November 2025 | stopped paging after page 20: Next button could not be clicked; read 20 pages of results |
 | aqa-gcse-english-literature-8702 | 246 | 84 | June 2018 to June 2025 | stopped paging after page 10: Next button could not be clicked; read 10 pages of results |
-| aqa-gcse-geography-8035 | 428 | 110 | November 2020 to June 2025 | stopped paging after page 17: Next button could not be clicked; read 17 pages of results |
+| aqa-gcse-geography-8035 | 0 | 0 | - | "a[href*='.pdf' i], a[href*='filestore' i]" never appeared |
 | aqa-gcse-history-8145 | 1691 | 453 | June 2009 to June 2025 | read 60 pages of results |
-| aqa-gcse-mathematics-8300 | 1369 | 466 | June 2017 to June 2025 | read 60 pages of results |
+| aqa-gcse-mathematics-8300 | 1370 | 466 | June 2017 to June 2025 | read 60 pages of results |
 | aqa-a-level-biology-7402 | 328 | 120 | June 2017 to June 2025 | stopped paging after page 13: Next button could not be clicked; read 13 pages of results |
 | aqa-a-level-business-new-7138 | 42 | 0 | - | stopped paging after page 3: Next button could not be clicked; read 3 pages of results |
 | aqa-a-level-chemistry-7405 | 550 | 179 | June 2017 to June 2025 | stopped paging after page 21: Next button could not be clicked; read 21 pages of results |
-| aqa-a-level-geography-7037 | 282 | 82 | November 2020 to June 2025 | stopped paging after page 12: Next button could not be clicked; read 12 pages of results |
-| aqa-a-level-history-7042 | 1725 | 513 | June 2000 to June 2025 | read 60 pages of results |
+| aqa-a-level-geography-7037 | 0 | 0 | - | "a[href*='.pdf' i], a[href*='filestore' i]" never appeared |
+| aqa-a-level-history-7042 | 1721 | 515 | June 2000 to June 2025 | read 60 pages of results |
 | aqa-a-level-physics-7408 | 1190 | 425 | June 2017 to June 2025 | stopped paging after page 45: Next button could not be clicked; read 45 pages of results |
 | aqa-a-level-psychology-7182 | 288 | 88 | November 2020 to June 2025 | stopped paging after page 12: Next button could not be clicked; read 12 pages of results |
 | aqa-a-level-sociology-7192 | 255 | 87 | November 2020 to June 2025 | stopped paging after page 10: Next button could not be clicked; read 10 pages of results |
@@ -255,8 +255,8 @@ Generated 2026-10-26T05:08:01+00:00
 | aqa-gcse-physics-8463 | 554 | 152 | June 2018 to June 2025 | stopped paging after page 22: Next button could not be clicked; read 22 pages of results |
 | aqa-gcse-polish-8688 | 487 | 188 | November 2020 to June 2025 | stopped paging after page 22: Next button could not be clicked; read 22 pages of results |
 | aqa-gcse-psychology-8182 | 147 | 47 | November 2020 to June 2025 | stopped paging after page 6: Next button could not be clicked; read 6 pages of results |
-| aqa-gcse-religious-studies-8061 | 385 | 130 | June 2019 to June 2025 | stopped paging after page 16: Next button could not be clicked; read 16 pages of results |
-| aqa-gcse-religious-studies-8062 | 743 | 239 | June 2018 to June 2025 | stopped paging after page 29: Next button could not be clicked; read 29 pages of results |
+| aqa-gcse-religious-studies-8061 | 386 | 130 | June 2019 to June 2025 | stopped paging after page 16: Next button could not be clicked; read 16 pages of results |
+| aqa-gcse-religious-studies-8062 | 744 | 239 | June 2018 to June 2025 | stopped paging after page 29: Next button could not be clicked; read 29 pages of results |
 | aqa-gcse-religious-studies-8063 | 363 | 123 | June 2018 to June 2025 | stopped paging after page 15: Next button could not be clicked; read 15 pages of results |
 | aqa-gcse-sociology-8192 | 148 | 46 | November 2020 to June 2024 | stopped paging after page 6: Next button could not be clicked; read 6 pages of results |
 | aqa-gcse-spanish-8692 | 71 | 0 | - | stopped paging after page 4: Next button could not be clicked; read 4 pages of results |
@@ -264,7 +264,7 @@ Generated 2026-10-26T05:08:01+00:00
 | aqa-gcse-statistics-8382 | 373 | 143 | June 2019 to June 2025 | stopped paging after page 16: Next button could not be clicked; read 16 pages of results |
 | aqa-gcse-urdu-8648 | 493 | 167 | November 2020 to June 2025 | stopped paging after page 23: Next button could not be clicked; read 23 pages of results |
 | aqa-level-3-certificate-mathematical-studies-1350 | 743 | 212 | June 2016 to June 2025 | stopped paging after page 33: Next button could not be clicked; read 33 pages of results |
-| aqa-level-3-certificate-level-3-extended-project-qualification-7993 | 34 | 12 | November 2020 to June 2024 | stopped paging after page 2: Next button could not be clicked; read 2 pages of results |
+| aqa-level-3-certificate-level-3-extended-project-qualification-7993 | 35 | 12 | November 2020 to June 2024 | stopped paging after page 2: Next button could not be clicked; read 2 pages of results |
 | eduqas-gcse-art-and-design | 9 | 7 | November 2018 to June 2025 | read 2 dropdown options |
 | eduqas-a-level-english-language-and-literature | 107 | 95 | June 2016 to June 2025 | read 4 dropdown options |
 | eduqas-a-level-chemistry | 103 | 102 | June 2016 to June 2025 | read 3 dropdown options |
@@ -451,10 +451,10 @@ Source: https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/assessment-res
   - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/dae808f93bdee75ea3e4d17f4a3f17a5a44f2562.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/b9a9417f5d544beba8dae16fc3c10582ee5769e0.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ee5dc019ad7306f397c539d30ceeaf1ca20f2298.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/107c6e676d1afbe16dd83555c05fdd63013345a1.pdf
-  - `(no text)` - could not work out doc type - context: Question paper (Foundation): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/41c34dc473b11ba6d0bd21ec5d885730c20fd4ce.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/ec49086966c204b53a24ba8c62d5ae14a64849ac.pdf
+  - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/107c6e676d1afbe16dd83555c05fdd63013345a1.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme (Foundation): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/52aa82e4d6da45fae8b182384d8e5f11dfccb898.pdf
+  - `(no text)` - could not work out doc type - context: Question paper (Foundation): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/41c34dc473b11ba6d0bd21ec5d885730c20fd4ce.pdf
 
 ### aqa-gcse-chemistry-8462
 
@@ -466,9 +466,9 @@ Source: https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/assessment
   - `Insight report: results at a glance - June 2019 - Chemistry GCSE Chemistry • PDF • 390.91 KB • Published: 17 Sep 2019` - could not work out doc type - context: Question paper ( Modified A4 18pt) (Higher): Paper 1 - June 2024 - Chemistry > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.chemistry.AQA-8462-RIS-2019_PDF/10ad40708a2be9993cf7a3595e87b97707c5c297.pdf
   - `Insight report: results at a glance - June 2018 - Chemistry GCSE Chemistry • PDF • 1.21 MB • Published: 05 Jan 2019` - could not work out doc type - context: Question paper ( Modified A4 18pt) (Higher): Paper 2 - June 2024 - Chemistry > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.chemistry.AQA-8462-RIS_PDF/472fc6b3bb9034b3781b52d1833ab301b876808d.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/ee1dfa784f0721caeee2b5f2e317ed68491a4baa.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/30eab43ad173a1857b2d9247fb338cfa21f5e8dd.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/c586a6747c7a8b6c8f71bfc687df95d248b4a913.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/60cf3dec8a26a4d774305ddc558cec5fcf5bb264.pdf
+  - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/30eab43ad173a1857b2d9247fb338cfa21f5e8dd.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/59e853f8c451843ed97be757478941c5ac2f19e5.pdf
   - `(no text)` - could not work out doc type - context: Insert (Higher): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/f5d24b948fc2266e8248bb130448bfebf172f606.pdf
   - `(no text)` - could not work out doc type - context: Insert (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/49daf21ce008bccd20f3a87faea5b4e7ae17cab0.pdf
@@ -477,10 +477,10 @@ Source: https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/assessment
 ### aqa-gcse-english-language-8700
 
 Source: https://www.aqa.org.uk/subjects/english/gcse/english-8700/assessment-resources (browser)
-- Document types: {'insert': 25, 'question_paper': 27, 'mark_scheme': 28, 'examiner_report': 40}
-- Levels: {'GCSE': 120}
-- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 132}
-- Unclassified samples (of 185):
+- Document types: {'question_paper': 28, 'insert': 27, 'mark_scheme': 29, 'examiner_report': 41}
+- Levels: {'GCSE': 125}
+- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 136}
+- Unclassified samples (of 202):
   - `Results snapshot - November 2023 - GCSE English Language 8700 GCSE English Language • PDF • 2 MB • Published: 23 Feb 2024` - could not work out doc type - context: Insert (Modified A4 18pt): Paper 1 Explorations in creative reading & writing -Sample set 1 June 2023 - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.english.AQA-8700-RS-NOV23_PDF/e5bf51dc69e421e65d8537e3c0eaebc4037811a3.pdf
   - `GCSE English Language Exam Timing Ideas - English GCSE English Language • PDF • 1.19 MB • Published: 21 Oct 2024` - could not work out doc type - context: Insert (Modified A4 18pt): Paper 2 Writers’ viewpoints and perspectives - November 2021 - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.english.AQA-GCSE-ENG-PTT-TIMING_PDF/3e41be8907bef18ad78ed0a2cc3cdd1bdc601214.pdf
   - `Insight report: results at a glance - June 2019 - GCSE English Language 8700 GCSE English Language • PDF • 351.29 KB • Published: 17 Sep 2019` - could not work out doc type - context: Question paper (Modified A3 36pt): Paper 1 Explorations in creative reading and writing - June 2023 - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.english.AQA-8700-RIS-2019_PDF/812f9dc8fa1f836751d0d0c98e90d2bc4568f0b5.pdf
@@ -501,66 +501,52 @@ Source: https://www.aqa.org.uk/subjects/english/gcse/english-8702/assessment-res
 - Unclassified samples (of 98):
   - `Insight report: results at a glance - June 2019 - GCSE English Literature 8702 GCSE English Literature • PDF • 427.35 KB • Published: 17 Sep 2019` - could not work out doc type - context: Question paper (Modified A4 18pt): Paper 1M Modern prose and drama - June 2022 - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.english.AQA-8702-RIS-2019_PDF/2b380eeefdc237e9042cc41a7ee4fb8df14bdf57.pdf
   - `Insight report: results at a glance - June 2018 - English GCSE English Literature • PDF • 1.11 MB • Published: 09 Jan 2018` - could not work out doc type - context: Examiner report: Paper 1P Poetry anthology - November 2021 - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.english.AQA-8702-RIS_PDF/f9f19a94148bf1b60a132557245645d4e8d98a7c.pdf
-  - `Answers and commentary: A Taste of Honey - English GCSE English Literature • PDF • 660.23 KB • Published: 15 May 2026` - could not work out doc type - context: Question paper ( Modified A3 36pt): Paper 2 Modern texts and poetry - June 2024 - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/cdb8e145-2a83-4719-b644-2724ea7cff67/51a6be2e4b345e8d2109afac60b1072310153e45.pdf
+  - `Answers and commentary: A Taste of Honey - English GCSE English Literature • PDF • 660.23 KB • Published: 15 May 2026` - could not work out doc type - context: Question paper (Modified A3 36pt): Paper 1 Shakespeare and the 19th-century novel - June 2025 - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/cdb8e145-2a83-4719-b644-2724ea7cff67/51a6be2e4b345e8d2109afac60b1072310153e45.pdf
   - `Answers and commentary: Anita and Me - English GCSE English Literature • PDF • 673.43 KB • Published: 15 May 2026` - could not work out doc type - context: Answers and commentary: A Taste of Honey - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/65df520e-fbfb-4f26-8642-0d530bbd1691/d762a5f05b829cf8f599d6b973bfc46f44fe3733.pdf
   - `Answers and commentary: DNA - English GCSE English Literature • PDF • 664.03 KB • Published: 15 May 2026` - could not work out doc type - context: Answers and commentary: Anita and Me - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/acfb0678-c072-437b-9b9d-fb10438ab6ab/1247e8a4d4e479270a1e207e95029454509ce8b9.pdf
   - `Answers and commentary: Pigeon English - English GCSE English Literature • PDF • 683.82 KB • Published: 15 May 2026` - could not work out doc type - context: Answers and commentary: DNA - English > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/da3e2613-14c0-4ef9-8784-c1ab33cd3586/e55a8cb5499f99336a3c4aca983c172cbe26eca3.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Shakespeare and the 19th-century novel - June 2025 - https://cdn.sanity.io/files/p28bar15/green/2963f9403378e2816a2606a45366dde1934b9a69.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Shakespeare and the 19th-century novel - June 2025 - https://cdn.sanity.io/files/p28bar15/green/8751b63839666230833bae71b052dde9bb60f492.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/06a1f8526d000ba281779c1e5d15da64fbce958b.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 2 Modern texts and poetry - June 2025 - https://cdn.sanity.io/files/p28bar15/green/49efd01e02032667f676ec38406415c17aaed3db.pdf
+  - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Shakespeare and the 19th-century novel - June 2024 - https://cdn.sanity.io/files/p28bar15/green/74621a3da483ecc4f5c285dd4b92250a57acea3f.pdf
 
 ### aqa-gcse-geography-8035
 
 Source: https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/assessment-resources (browser)
-- Document types: {'mark_scheme': 30, 'question_paper': 30, 'examiner_report': 30, 'insert': 20}
-- Levels: {'GCSE': 110}
-- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 147}
-- Unclassified samples (of 171):
-  - `Preliminary material: Paper 3 Geographical applications - June 2023 - Geography GCSE Geography • PDF • 12.11 MB • Published: 07 Dec 2024` - could not work out doc type - context: Insert: OS map extract legend: Paper 1 Living with the physical environment - June 2023 - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2023.june.AQA-80353-PM-Jun23-CR_PDF/564ed02980602bc466977e04de40a4a5b0386431.pdf
-  - `Preliminary material: Paper 3 Geographical applications - June 2022 - Geography GCSE Geography • PDF • 1.02 MB • Published: 14 Jul 2023` - could not work out doc type - context: Insert (Modified A4 18pt): questions 1, 2, 3, 4, 5: Living with the physical environment - June 2022 - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2022.june.AQA-80353-PM-JUN22-CR_PDF/283c9596bc94bbfeaaaa71ebcebc73c601cc693a.pdf
-  - `Preliminary material: Paper 3 Geographical applications - November 2020 - Geography GCSE Geography • PDF • 2.23 MB • Published: 18 Jan 2022` - could not work out doc type - context: Insert: Paper 2 Challenges in the human environment - November 2020 - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2020.november.AQA-80353-INS-NOV20-CR_PDF/18deb5a85ae7fafce8ead75e1c2998a418d62669.pdf
-  - `Preliminary material: Paper 3 Geographical applications - November 2021 - Geography GCSE Geography • PDF • 959.62 KB • Published: 29 Jul 2022` - could not work out doc type - context: Question paper (Modified A3 36pt): Paper 1 Living with the physical environment - November 2021 - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2021.november.AQA-80353-PM-NOV21_PDF/4a76ef35542028af3f67c1ca052880e1f7323d4a.pdf
-  - `Candidate material: Paper 3 Geographical applications - June 2024 - Geography GCSE Geography • PDF • 9.04 MB • Published: 11 Jul 2025` - could not work out doc type - context: Preliminary material (Modified A3 36pt): Paper 3 Geographical applications - June 2022 - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-80353-CM-JUN24_PDF/0b42f4cd328217678563c290f79479f777cb79f8.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Living with the physical environment - June 2025 - https://cdn.sanity.io/files/p28bar15/green/c0b2adecbe1ddb3d7be035ff60b948743c186a82.pdf
-  - `(no text)` - could not work out doc type - context: Question Paper 1: Living with the physical environment - June 2025 - https://cdn.sanity.io/files/p28bar15/green/64670034175bd2f294ed1ed9a3d159f46903a702.pdf
-  - `(no text)` - could not work out doc type - context: Question paper: Paper 2 Challenges in the human environment - June 2025 - https://cdn.sanity.io/files/p28bar15/green/a646d4c837770725d50c2fb54a7b88bf125e36e5.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 2 Challenges in the human environment - June 2025 - https://cdn.sanity.io/files/p28bar15/green/c5ace14d598d7f88ed975f95504980895841183d.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 3 Geographical applications - June 2025 - https://cdn.sanity.io/files/p28bar15/green/51ad47a8680caad9e904847a6ebf20b69b994084.pdf
 
 ### aqa-gcse-history-8145
 
 Source: https://www.aqa.org.uk/subjects/history/gcse/history-8145/assessment-resources (browser)
-- Document types: {'insert': 138, 'mark_scheme': 145, 'question_paper': 142, 'examiner_report': 28}
+- Document types: {'insert': 138, 'question_paper': 142, 'mark_scheme': 145, 'examiner_report': 28}
 - Levels: {'GCSE': 453}
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 647}
 - Unclassified samples (of 591):
   - `Insight report: results at a glance - June 2019 - History GCSE History • PDF • 504.8 KB • Published: 17 Sep 2019` - could not work out doc type - context: Question paper: Paper 1 Section A Option A America, 1840-1895: Expansion and consolidation - November 2021 - History > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.history.AQA-8145-RIS-2019_PDF/d0252fbc063455400df9e0caaef495d7ba4bbb7b.pdf
   - `Insight report: results at a glance - June 2018 - History GCSE History • PDF • 1010.01 KB • Published: 04 Feb 2015` - could not work out doc type - context: Mark scheme: Paper 2 Section B Option C Elizabethan England, c1568-1603 - June 2024 - History > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.history.AQA-8145-RIS_PDF/7822bba3d00024f096dae054f677ac614fbe5f49.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/f828cdff9bf2053e28b9dfd0a225096709445871.pdf
-  - `(no text)` - could not work out doc type - context: Insert: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025 - https://cdn.sanity.io/files/p28bar15/green/1f9169eab120b6e3fce3e4aa1cc5248666c8b1a7.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025 - https://cdn.sanity.io/files/p28bar15/green/a128c8635d187b782cf531c2b37ff140d607311c.pdf
-  - `(no text)` - could not work out doc type - context: Insert: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/9648b5461fd025b80c49b71ca918af9d3cb8aaa3.pdf
   - `(no text)` - could not work out doc type - context: Insert: Paper 1 Section B Option C Conflict and tension between East and West, 1945-1972 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/2a58c0bc7df7235639201534a6312fbc38999c9d.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Section B Option C Conflict and tension between East and West, 1945-1972 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/e864dba46d43146a56105b93a370ca1e4f44d347.pdf
   - `(no text)` - could not work out doc type - context: Insert: Paper 1 Section A Option A America, 1840-1895: Expansion and consolidation - June 2025 - https://cdn.sanity.io/files/p28bar15/green/4a27fd776b9cbebc4f5a73bdf360f102dab7e562.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Section A Option A America, 1840-1895: Expansion and consolidation - June 2025 - https://cdn.sanity.io/files/p28bar15/green/f7b27fa68cf7495ccf904187ae591ba09d239b34.pdf
+  - `(no text)` - could not work out doc type - context: Insert: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025 - https://cdn.sanity.io/files/p28bar15/green/1f9169eab120b6e3fce3e4aa1cc5248666c8b1a7.pdf
+  - `(no text)` - could not work out doc type - context: Insert: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/9648b5461fd025b80c49b71ca918af9d3cb8aaa3.pdf
+  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025 - https://cdn.sanity.io/files/p28bar15/green/a128c8635d187b782cf531c2b37ff140d607311c.pdf
 
 ### aqa-gcse-mathematics-8300
 
 Source: https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/assessment-resources (browser)
 - Document types: {'question_paper': 159, 'mark_scheme': 157, 'insert': 23, 'examiner_report': 127}
 - Levels: {'GCSE': 466}
-- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 427}
+- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 428}
 - Unclassified samples (of 476):
-  - `Results snapshot - November 2023 - Mathematics GCSE Mathematics • PDF • 2.46 MB • Published: 23 Feb 2024 Exam preparation Analysis` - could not work out doc type - context: Question paper (Higher) : Paper 3 Calculator - November 2022 - Mathematics > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.mathematics.AQA-8300-RS-NOV23_PDF/3482ee998fb51bb7ac17d1d017607608534b7686.pdf
+  - `Results snapshot - November 2023 - Mathematics GCSE Mathematics • PDF • 2.46 MB • Published: 23 Feb 2024 Exam preparation Analysis` - could not work out doc type - context: Explore your results with Data Insights > 10 > GCSE Mathematics8300 - https://www.aqa.org.uk/files/resources.mathematics.AQA-8300-RS-NOV23_PDF/3482ee998fb51bb7ac17d1d017607608534b7686.pdf
   - `Post-16 (8300) results snapshot - November 2025 - Mathematics GCSE Mathematics • PDF • 3.94 MB • Published: 03 Feb 2026 Exam preparation Analysis` - could not work out doc type - context: 8300 GCSE Foundation Indices Practice Topic Test > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/48fb6c26-0d91-46b7-a526-b4e403eca7b4/1bb239d87e163619e73c8c1fc279381c1216c161.pdf
   - `Insight report: results at a glance - June 2019 - Mathematics GCSE Mathematics • PDF • 434.3 KB • Published: 17 Sep 2019 Exam preparation Analysis` - could not work out doc type - context: Insert (Foundation): Paper 2 Calculator - June 2025 - Mathematics > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.mathematics.AQA-8300-RIS-2019_PDF/2782431d0279994275d621b95155bd8027d54acb.pdf
   - `Insight report: results at a glance - June 2018 - Mathematics GCSE Mathematics • PDF • 920.74 KB • Published: 19 Oct 2018 Exam preparation Analysis` - could not work out doc type - context: Notes and guidance: tips for students (poster) - Mathematics > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.mathematics.AQA-8300-RIS_PDF/7a1a3a3122cd025ffef7727036d7c269d432d7eb.pdf
   - `8300/2F Foundation Tier Shadow question paper 2020 GCSE Mathematics • PDF • 2.29 MB • Published: 01 Aug 2024 Exam preparation` - could not work out series - context: 8300/2H Higher Tier Shadow paper Mark scheme 2020 v1.3 > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/aam.10363/7000edc7c88220685fb332752f1a42fabea83305.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Foundation): Paper 1 Non-calculator - June 2025 - https://cdn.sanity.io/files/p28bar15/green/e1b7736f029e91ae154d9a08fd85dfeed7d83e84.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fc9ef8262b581fcc2228663a1afda68985a45db0.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 1 Non-calculator - June 2025 - https://cdn.sanity.io/files/p28bar15/green/1233ce24afc243694455719b6ee7ef3995669b37.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fc9ef8262b581fcc2228663a1afda68985a45db0.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 1 Non-calculator - June 2025 - https://cdn.sanity.io/files/p28bar15/green/ef44bde7a57ba657aa1fb1927098c8bb9a68314c.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 2 Calculator - June 2025 - https://cdn.sanity.io/files/p28bar15/green/1a0db540fc1f58053c5b625dc2c1d29d5ae58c32.pdf
 
@@ -579,8 +565,8 @@ Source: https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/assessment-
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ca5274886c44fae6f69179fa3fc59708b966a255.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/8313ba556e79d6002b8485ec7d5d32fc59f3b322.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/09f75a71090d00d15997488a4d27a09ed62c3ecb.pdf
+  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/827a0ea833d051e609042c00a45c1b3cd3fa2584.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Modified A4 18pt): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/60c1e1034ee616c3983f7f19150f1242765aa4ab.pdf
-  - `(no text)` - could not work out doc type - context: Question paper (Modified A3 36pt): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/f2cb3827eab52a2abf8a3ad2143fda3a7a51c6bc.pdf
 
 ### aqa-a-level-business-new-7138
 
@@ -592,11 +578,11 @@ Source: https://www.aqa.org.uk/subjects/business/a-level/business-7138/assessmen
   - `Answers and commentary: 15-mark questions - Business A-level Business (New) • PDF • 345.25 KB • Published: 24 Apr 2026` - could not work out doc type and series - context: Answers and commentary: 9-mark questions - Business > Filter > 10 - https://www.aqa.org.uk/files/a6440f27-9821-4088-8a67-b3985b0cbf8c/abf1dc3f6ddfc966693df0cf9db99e2f68c60132.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ef952848a18c96cd1ef5cbd2bf25af220d6100cf.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a29cb50ac9eb4a7c90e25acb9764062618d25139.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/da47494793ba667a78e5f909ac48eac3a984938d.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/2fbaba4c3532f27a77b8ee1d580a718bbdc21fb9.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/558ec17f502c2fb76b629bfdeb326da351d8039e.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/da47494793ba667a78e5f909ac48eac3a984938d.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fe12d8292d1dfd8ec767820bad4c1c98eee48817.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/5a0bb143bfd921080fe08dd6580e13997b5e7158.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/b07e80e41a4d584b22d1af7a87d6bdb5e68e3454.pdf
 
 ### aqa-a-level-chemistry-7405
 
@@ -619,38 +605,24 @@ Source: https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/assessm
 ### aqa-a-level-geography-7037
 
 Source: https://www.aqa.org.uk/subjects/geography/a-level/geography-7037/assessment-resources (browser)
-- Document types: {'question_paper': 20, 'mark_scheme': 20, 'insert': 20, 'examiner_report': 22}
-- Levels: {'A-level': 82}
-- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 89}
-- Unclassified samples (of 111):
-  - `NEA task: Environmental and social impacts: Component 3 NEA Geography fieldwork investigation - Geography A-level Geography • PDF • 6.19 MB • Published: 13 Mar 2020` - could not work out doc type - context: Mark scheme: Paper 2 Human geography - June 2023 - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.geography.AQA-70373-NEA-ESI_PDF/0b72c7c348625df0667217cf1fbbbce952b657c1.pdf
-  - `2027 candidate record form - A-level Geography NEA – Independent fieldwork investigation (7037/C) - Geography A-level Geography • PDF • 159.63 KB • Published: 21 Sep 2026` - could not work out doc type - context: Examiner report: Component 3 NEA Geography fieldwork investigation - June 2025 - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/31fbc768-4e26-4cca-a44b-9f0c8ff9e4be/427e036327d49fa84bcdcb63e5d5466a39e8d277.pdf
-  - `2027 centre declaration sheet PDF • 73.49 KB • Published: 06 Oct 2026` - could not work out doc type - context: 2027 candidate record form - A-level Geography NEA – Independent fieldwork investigation (7037/C) - Geography > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/5ddceb6d-04fa-45fd-8193-cbf5452b6943/b13bf28632a8bf8f1505e57790277c82b8bd6b0d.pdf
-  - `2027 Centre declaration form – NEA, fieldwork, live performance and practical programming PDF • 89.23 KB • Published: 07 Oct 2026` - could not work out doc type - context: 2027 centre declaration sheet > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/f3c69023-0de3-4587-8a4e-47e556ead34d/ec1eba1af2920dfbc32364675f78983cb89d2314.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/d797dfe2d465de401e20f4caed8c88698e576ab2.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/171af16b1a1a80ad22b9c4354c209b8de93f8b13.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/1c9879856f5a21faf817fad9d1df0d911d3f8704.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ba54865cb02c1dff078919daabc8c0f9df17e6c2.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/29c88eb80d1ff02c1964d3aff35de8517e548c72.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/e0c22c1cf71b404c31b69db039bf19f322c3b548.pdf
 
 ### aqa-a-level-history-7042
 
 Source: https://www.aqa.org.uk/subjects/history/a-level/history-7042/assessment-resources (browser)
-- Document types: {'question_paper': 220, 'mark_scheme': 198, 'examiner_report': 95}
-- Levels: {'A-level': 513}
-- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 629}
+- Document types: {'question_paper': 221, 'mark_scheme': 198, 'examiner_report': 96}
+- Levels: {'A-level': 515}
+- Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 623}
 - Unclassified samples (of 583):
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/e8d0763494e7a0230d28c7d57770af70b34c057a.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/1be662fe24f18124e4d1c64ca67dc967f9e71b71.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/de07a1e5c27c868cbafb23fee5bca6acd95a9ca8.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fb036f1ad11a0cd05addda4d084c9f0d1f4fc2a6.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/eae12d0806a74d8798dd1ddacaf3f6a2da2d003a.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/c58b37817bd6caf0e912588d52e2dc7325f7efb2.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fa31c10c522a49000e8cf0fb438c9da6db14003f.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/1268bdcbacb8f291b213ddd09ecdcb83a69c8388.pdf
-  - `(no text)` - could not work out doc type - context: Question paper: Component 2O Democracy and Nazism: Germany, 1918-1945 - June 2024 - https://cdn.sanity.io/files/p28bar15/green/c3643d1c313290d8c7274bee8d726e2069239407.pdf
-  - `(no text)` - could not work out doc type - context: Question paper: Component 2O Democracy and Nazism: Germany, 1918-1945 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/5c2628b8ca29cbadbc42c7aa8f9f5954864a13fd.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/4962b05786c8e45cac5fe5329937d42ca8e2d6d0.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/d04bf16899037a268fcd6d7c8180eb74fd077345.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/886e3768e7bac60a550578dc64f01a2d956918b2.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/1f24af0d720a3355c9b699e95b44c61b5601dac4.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/651d936fc51b17e9fb2bbbf4b068548571e70004.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/768256b194cd262e1fd6238e98f33aa0bb2df480.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/9eb7043d79e75efa292994bf56731f8e58c87bb9.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/7c1466abbd522edba834be869b7afaa557998391.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/1b621e2dc14fb6fa5bbdc032be5b995c9b110fd1.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/679ad0f49c6578f85d4de60c16fbca858c778a0b.pdf
 
 ### aqa-a-level-physics-7408
 
@@ -698,13 +670,13 @@ Source: https://www.aqa.org.uk/subjects/sociology/a-level/sociology-7192/assessm
   - `Answers and commentary (A-level) : Paper 1 Education with theory and methods - Sociology A-level Sociology • PDF • 2.77 MB • Published: 11 Aug 2023` - could not work out doc type and series - context: Mark scheme (A-level) : Paper 3 Crime and deviance with theory and methods - Sample set 1 - Sociology > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.sociology.AQA-71921-EX_PDF/83af0d215a6ce1c2c482c362e053444d033308f7.pdf
   - `Answers and commentary (A-level) : Paper 2 Topics in Sociology - Sociology A-level Sociology • PDF • 3.03 MB • Published: 11 Aug 2023` - could not work out doc type and series - context: Answers and commentary (A-level) : Paper 1 Education with theory and methods - Sociology > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.sociology.AQA-71922-EX_PDF/e75caa675c0ed4da155640fb579b83b731a3c0f6.pdf
   - `Answers and commentary (A-level) : Paper 3 Crime and deviance with theory and methods - Sociology A-level Sociology • PDF • 1.18 MB • Published: 11 Aug 2023` - could not work out doc type - context: Examiner report (A-level) : Paper 1 Education with theory and methods - June 2023 - Sociology > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.sociology.AQA-71923-EX_PDF/7086fb7180555f02289e73f13cad2a6c3067bb4b.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/e7bec0a4bacfa10651fdb1bfe23fb35e35e6a7cc.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Education with theory and methods - June 2025 - https://cdn.sanity.io/files/p28bar15/green/ebe97e2f4b6b85f8a610ff569ada774ff8d9d8de.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Education with theory and methods - June 2025 - https://cdn.sanity.io/files/p28bar15/green/d015c928a4a5020e0cdc0bdc000de669db3d2a60.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/77d6435438a38faba19950f4886953cc0f6b595b.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/7f29ede4c4beef631f922178059ccde054e866bc.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/5ada22f946e7ffd420d45c1cef788840c42f261c.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/31947fe24f9bcc1f01c78a929e1137c71fec97ca.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a2d7c8d62cd518f017c80012bcb2317def610ae2.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/c23bd63a143eb47b2986371ccea389688ef375ca.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ea161256f3d3ca18e41d54a89009152272e5adbc.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/e7bec0a4bacfa10651fdb1bfe23fb35e35e6a7cc.pdf
+  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Education with theory and methods - June 2025 - https://cdn.sanity.io/files/p28bar15/green/d015c928a4a5020e0cdc0bdc000de669db3d2a60.pdf
 
 ### aqa-a-level-accounting-7127
 
@@ -864,9 +836,9 @@ Source: https://www.aqa.org.uk/subjects/business/a-level/business-7132/assessmen
   - `(no text)` - could not work out doc type - context: Insert (Modified A4 18pt): Paper 3 Business 3 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/045ed697cd74e6b29053f7e300eb61e0f1b4c418.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 3 Business 3 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/7f5a5b7e1ef74f583923958c11fa1a8cbf7eff99.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Business 1 - June 2024 - https://cdn.sanity.io/files/p28bar15/green/2287bd4f599c6e9c53232e7abdb9ce226f55c0a0.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a60eb4b331ce3306a20c405bee09d3de40d8697d.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fb8de9d73af5ca35ce0ae021ea618388c9d0ecf0.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/1c9658669a5f9007101a6d2f7928373953c7565c.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a60eb4b331ce3306a20c405bee09d3de40d8697d.pdf
 
 ### aqa-a-level-computer-science-7517
 
@@ -989,8 +961,8 @@ Source: https://www.aqa.org.uk/subjects/english/a-level/english-7702/assessment-
   - `(no text)` - could not work out doc type - context: Insert (Modified A3 36pt): Paper 2 Language diversity and change - June 2025 - https://cdn.sanity.io/files/p28bar15/green/3d1af559ea998cd577fc965809c2f34ddc01c857.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Modified A4 18pt): Paper 2 Language diversity and change - June 2025 - https://cdn.sanity.io/files/p28bar15/green/027697bc853ef1f611e9ac2421706264880ef702.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Modified A3 36pt): Paper 2 Language diversity and change - June 2025 - https://cdn.sanity.io/files/p28bar15/green/083592924fbee65e57143db82e7c7b6d6e264b06.pdf
-  - `(no text)` - could not work out doc type - context: Insert (Modified A4 18pt): Paper 1 Language, the individual and society - June 2025 - https://cdn.sanity.io/files/p28bar15/green/8b13df44ff536ded2f78874d69de9dd50b41f52c.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Modified A4 18pt): Paper 1 Language, the individual and society - June 2025 - https://cdn.sanity.io/files/p28bar15/green/b0c120d487d314e9c1ca5b67394a5b927882ea27.pdf
+  - `(no text)` - could not work out doc type - context: Insert (Modified A4 18pt): Paper 1 Language, the individual and society - June 2025 - https://cdn.sanity.io/files/p28bar15/green/8b13df44ff536ded2f78874d69de9dd50b41f52c.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Language, the individual and society - June 2025 - https://cdn.sanity.io/files/p28bar15/green/afde7207083085a0f026a90a9caa10250a643932.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Language, the individual and society - June 2025 - https://cdn.sanity.io/files/p28bar15/green/dd1e766a82a325dd773cbf5b7e2d56ba9478111e.pdf
 
@@ -1351,8 +1323,8 @@ Source: https://www.aqa.org.uk/subjects/spanish/a-level/spanish-7692/assessment-
   - `Teacher notes: Paper 3 Speaking - June 2024 - Spanish A-level Spanish • PDF • 1.89 MB • Published: 11 Jul 2025` - could not work out doc type - context: Explore your results with Data Insights > 10 > A-level Spanish7692 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-76923-TN-JUN24_PDF/40eaad05bcc5b3e28ab84294eb77e0c2eb5bf951.pdf
   - `MFL host booklet 2026 PDF • 169.58 KB • Published: 01 Dec 2025` - could not work out doc type - context: Sound file: tracked: Paper 1 Listening, reading and writing - June 2024 - Spanish > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/b84971df-03d3-4576-8be9-33045e98de26/4f08cd4b41b77803cb4520cad1c03691b75a6834.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fafeed7deeb1fbfc227ef71753a1736879add1a9.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a426cd898053aad6a1881aec534871501dc5f9a5.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/44222132cb80c6dcbdde8ce84d988f17ea0daeb9.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a426cd898053aad6a1881aec534871501dc5f9a5.pdf
 
 ### aqa-level-2-certificate-further-mathematics-8365
 
@@ -1362,7 +1334,7 @@ Source: https://www.aqa.org.uk/subjects/mathematics/aqa-certificate/mathematics-
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 81}
 - Unclassified samples (of 82):
   - `Algebraic proof mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 236.3 KB • Published: 01 Aug 2024` - could not work out series - context: Explore your results with Data Insights > 10 > AQA Certificate Level 2 Further Mathematics8365 - https://www.aqa.org.uk/files/aam.11561/0e2ee7f328d0dcf3bd0c9670b449c3b062afdd1e.pdf
-  - `8365 L2 Further Maths - Calculus - Finding dy dx and the equations of tangents and normals - Mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 268.61 KB • Published: 01 Aug 2024` - could not work out series - context: 8365 L2 Further Maths - Coordinate Geometry - Gradients of parallel and perpendicular lines topic tests > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/aam.11708/7893a2228255586a54ce6c52fae97850f57fd33f.pdf
+  - `8365 L2 Further Maths - Calculus - Finding dy dx and the equations of tangents and normals - Mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 268.61 KB • Published: 01 Aug 2024` - could not work out series - context: Explore your results with Data Insights > 10 > AQA Certificate Level 2 Further Mathematics8365 - https://www.aqa.org.uk/files/aam.11708/7893a2228255586a54ce6c52fae97850f57fd33f.pdf
   - `8365 L2 Further Maths - Calculus - Minima and Maxima Problems - Mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 295.14 KB • Published: 01 Aug 2024` - could not work out series - context: 8365 L2 Further Maths - Calculus - Finding dy dx and the equations of tangents and normals - Mark scheme > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/aam.11854/9d9e529e924a189025b7cc424dd14ad7d73c47d5.pdf
   - `8365 L2 Further Maths - Algebra - Algebraic Fractions - Mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 250.73 KB • Published: 01 Aug 2024` - could not work out series - context: 8365 L2 Further Maths - Geometry - Geometric proof - Mark scheme > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/aam.11631/059fc06563ad3f5baabf50a41cd4a9f31431d1b4.pdf
   - `8365 L2 Further Maths - Coordinate Geometry - Gradients of parallel and perpendicular lines mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 334.89 KB • Published: 01 Aug 2024` - could not work out series - context: 8365 L2 Further Maths - Algebra - Algebraic Fractions - Mark scheme > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/aam.11700/e290b1d2c8ac8b82919513a7e05ff5e1c05e6d94.pdf
@@ -1568,11 +1540,10 @@ Source: https://www.aqa.org.uk/subjects/mathematics/as-level/mathematics-7366/as
 ### aqa-as-geography-7036
 
 Source: https://www.aqa.org.uk/subjects/geography/as-level/geography-7036/assessment-resources (browser)
-- Document types: {'question_paper': 16, 'mark_scheme': 16, 'examiner_report': 11}
+- Document types: {'mark_scheme': 16, 'question_paper': 16, 'examiner_report': 11}
 - Levels: {'AS': 43}
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 35}
 - Unclassified samples (of 51):
-  - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Physical geography and people and the environment - June 2025 - https://cdn.sanity.io/files/p28bar15/green/9503c33d60e7e2350a43be9516bd07b86921f24c.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme: Paper 2 Human geography and geography fieldwork investigation - June 2025 - https://cdn.sanity.io/files/p28bar15/green/966ee391fba60d910ec4a37473800e9e6e95ca13.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 2 Human geography and geography fieldwork investigation - June 2025 - https://cdn.sanity.io/files/p28bar15/green/7a16d7ac8bea6509e35ecc7702e6d4e8f1f00932.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/6e2a25ac1ef71816b11353fd2132e2e6b97b1a21.pdf
@@ -1582,6 +1553,7 @@ Source: https://www.aqa.org.uk/subjects/geography/as-level/geography-7036/assess
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/f2eb83d9a84a52bd71a8836b8dd372c83ac0ff04.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/5b466e68249a0be535f9f8b30aca685585ee27de.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/012e6855ac377358a5e4599a0472a5107622aa4f.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/1c7f889e580f624cdcf1429c62e2b61f7e7ed39f.pdf
 
 ### aqa-as-german-7661
 
@@ -1866,9 +1838,9 @@ Source: https://www.aqa.org.uk/subjects/business/gcse/business-8132/assessment-r
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/2b98a305e18796aff06e1f694e1221c94f26cb43.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/8ffa8e99475e82f1c9a5dde3eb7d463fede67400.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fd238cb6fa6fc11d4e6fda5639ae345233f5488d.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/0d00abca79df8bb816bf5f57071f684f88a57005.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Influences of operations and HRM on business activity - June 2025 - https://cdn.sanity.io/files/p28bar15/green/b36bd7c9085930374c81e5a8b3f1d3d44c7d157d.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme: Paper 2 Influences of marketing and finance on business activity - June 2025 - https://cdn.sanity.io/files/p28bar15/green/42a151a38c7e4d3c2d230189000b481dc827ca17.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/0d00abca79df8bb816bf5f57071f684f88a57005.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/0d1d4336afddf00224c7139a305cc0c28ca8430c.pdf
 
 ### aqa-gcse-chinese-mandarin-8673
@@ -1932,8 +1904,8 @@ Source: https://www.aqa.org.uk/subjects/science/gcse/science-8464/assessment-res
 - Levels: {'GCSE': 448}
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 469}
 - Unclassified samples (of 549):
-  - `Insight report: results at a glance - June 2019 - GCSE Combined Science: Trilogy 8464 GCSE Combined Science: Trilogy • PDF • 480.13 KB • Published: 17 Sep 2019` - could not work out doc type - context: Question paper ( Modified A4 18pt) (Higher): Paper 1 Physics - June 2024 - Science > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.science.AQA-8464-RIS-2019_PDF/32b0f889f137b1b15c0a0b5b19ebd810ff367454.pdf
-  - `Insight report: results at a glance - June 2018 - GCSE Combined Science: Trilogy 8464 GCSE Combined Science: Trilogy • PDF • 1.24 MB • Published: 17 Sep 2018` - could not work out doc type - context: Insert (Modified A4 18pt) (Foundation; Higher) : equations sheet - June 2022 - Physics > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.science.AQA-8464-RIS_PDF/8922330a4cd377ab363760ebbaf544ab49c10729.pdf
+  - `Insight report: results at a glance - June 2019 - GCSE Combined Science: Trilogy 8464 GCSE Combined Science: Trilogy • PDF • 480.13 KB • Published: 17 Sep 2019` - could not work out doc type - context: Explore your results with Data Insights > 10 > GCSE Combined Science: Trilogy8464 - https://www.aqa.org.uk/files/resources.science.AQA-8464-RIS-2019_PDF/32b0f889f137b1b15c0a0b5b19ebd810ff367454.pdf
+  - `Insight report: results at a glance - June 2018 - GCSE Combined Science: Trilogy 8464 GCSE Combined Science: Trilogy • PDF • 1.24 MB • Published: 17 Sep 2018` - could not work out doc type - context: Explore your results with Data Insights > 10 > GCSE Combined Science: Trilogy8464 - https://www.aqa.org.uk/files/resources.science.AQA-8464-RIS_PDF/8922330a4cd377ab363760ebbaf544ab49c10729.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 1 Biology - June 2025 - https://cdn.sanity.io/files/p28bar15/green/f6ae968b094c13c675bd2e4ce6e82c920c0a23ce.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 1 Physics - June 2025 - https://cdn.sanity.io/files/p28bar15/green/1ef695e518420a8a41ede4fbb5368380454c18ee.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/442d64cb2019ba3c7d27b78aefc9685bbc1597b3.pdf
@@ -1953,13 +1925,13 @@ Source: https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/976d74076c135e7850c011b93b29bbb2f7d71ad7.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/78fcc7e4df776f18615f6664028c397690cf63fd.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/52f67d882ddb6f4df1a8fc8f9a9670163bc5242c.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/9c915ce11113baa402b7f38a24ed0b28be9bc58e.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/802591934c5ab724411b6a9a723f74fcab057ed7.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/9c915ce11113baa402b7f38a24ed0b28be9bc58e.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a69c3e9a4f3f7a93b2ac9f6adc21d93e5291b742.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 2 Computing concepts - June 2024 - https://cdn.sanity.io/files/p28bar15/green/a9703e569c09f625738372f526c90dae7454af91.pdf
   - `(no text)` - could not work out doc type - context: Question paper: Paper 1B Computational thinking and programming skills (Python) - June 2024 - https://cdn.sanity.io/files/p28bar15/green/913d712ed4e9707c12841a89f484ddfa43383702.pdf
-  - `(no text)` - could not work out doc type - context: Question paper: Paper 1B Computational thinking and programming skills (Python) - June 2025 - https://cdn.sanity.io/files/p28bar15/green/d5a1bd4a1e4a206710d017ef563cfecba3038d22.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ecef7166544c882ff50bbd1c7c74ff32c1b5c05d.pdf
+  - `(no text)` - could not work out doc type - context: Question paper: Paper 1B Computational thinking and programming skills (Python) - June 2025 - https://cdn.sanity.io/files/p28bar15/green/d5a1bd4a1e4a206710d017ef563cfecba3038d22.pdf
 
 ### aqa-gcse-dance-8236
 
@@ -2004,10 +1976,10 @@ Source: https://www.aqa.org.uk/subjects/drama/gcse/drama-8261/assessment-resourc
 - Levels: {'GCSE': 38}
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 28}
 - Unclassified samples (of 69):
-  - `2027 Candidate record form - GCSE Drama: Component 2 – Devising drama (8261/C) - Drama GCSE Drama • PDF • 167.59 KB • Published: 16 Sep 2026` - could not work out doc type and series - context: 2025 Play approval form GCSE Drama (8261) Component 3 – Texts in Practice (8261/X)|Play approval form: Component 3 NEA Texts in practice 2025 - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/fe41ac06-c662-40cc-b068-b209981f4852/62bf3cf2e872455e45d0ead37b7acfc2a58a69dd.pdf
-  - `Standardisation: example work index - Drama GCSE Drama • PDF • 173.6 KB • Published: 12 Oct 2026` - could not work out doc type - context: Explore your results with Data Insights > 10 > GCSE Drama8261 - https://www.aqa.org.uk/files/dc4c7292-d57d-4596-899c-8b314a9e373f/f145597b2a85a08975adcee7389e45f831e05fb8.pdf
+  - `Standardisation: example work index - Drama GCSE Drama • PDF • 173.6 KB • Published: 12 Oct 2026` - could not work out doc type - context: Examiner report: Component 3 NEA Texts in practice - June 2022 - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/dc4c7292-d57d-4596-899c-8b314a9e373f/f145597b2a85a08975adcee7389e45f831e05fb8.pdf
+  - `2027 Candidate record form - GCSE Drama: Component 2 – Devising drama (8261/C) - Drama GCSE Drama • PDF • 167.59 KB • Published: 16 Sep 2026` - could not work out doc type - context: Examiners report: Component 3 NEA Texts in practice - June 2024 - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/fe41ac06-c662-40cc-b068-b209981f4852/62bf3cf2e872455e45d0ead37b7acfc2a58a69dd.pdf
   - `Answers and commentary: Component 1 Section B - Blood Brothers - Drama GCSE Drama • PDF • 382.69 KB • Published: 16 Apr 2024` - could not work out doc type and series - context: Drama - Mark Scheme: Component 1 Understanding Drama - Sample Set 1 - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/65c8753a-4667-4f98-84f9-8e64053391f3/2951ec86768716a22fa6a11ef6c08dc7d2b25239.pdf
-  - `Answers and commentary: Component 1 Section B- The Crucible - Drama GCSE Drama • PDF • 1.98 MB • Published: 16 Apr 2024` - could not work out doc type and series - context: Notes and guidance: Artificial intelligence (AI) guidance > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/c54150ed-802b-4d1d-b8c8-57aa7397896f/a1fd4e339b0d4c47ae42fbbfc8acca23a5bfefd5.pdf
+  - `Answers and commentary: Component 1 Section B- The Crucible - Drama GCSE Drama • PDF • 1.98 MB • Published: 16 Apr 2024` - could not work out doc type and series - context: 2027 Candidate record form - GCSE Drama: Component 3 - Texts in practice (8261/X) - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/c54150ed-802b-4d1d-b8c8-57aa7397896f/a1fd4e339b0d4c47ae42fbbfc8acca23a5bfefd5.pdf
   - `Answers and commentary: Component 1 Section B - Things I Know To Be True - Drama GCSE Drama • PDF • 290.57 KB • Published: 16 Apr 2024` - could not work out doc type and series - context: Answers and commentary: Component 1 Section B- The Crucible - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/1541d558-537a-4081-a3b2-ed491218a6b4/accdd0d7351647efea1cfaaf2759d50f9f03e1a0.pdf
   - `Answers and commentary: Component 1 Section B - Romeo and Juliet - Drama GCSE Drama • PDF • 331.61 KB • Published: 16 Apr 2024` - could not work out doc type and series - context: Answers and commentary: Component 1 Section B - Things I Know To Be True - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/e61d841a-44b8-4b9d-8a13-eb095aae011b/c24a9bd4ee9d2f0f5262979d693778dccd9ebdca.pdf
   - `Answers and commentary: Component 1 Section B - Noughts and Crosses - Drama GCSE Drama • PDF • 2.4 MB • Published: 16 Apr 2024` - could not work out doc type and series - context: Answers and commentary: Component 1 Section B - Romeo and Juliet - Drama > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/a082c717-b81f-47b0-8ff9-6b8d30c8e207/1a8e7e736d1e3f98cabe59d85fcc841b18232fd7.pdf
@@ -2074,16 +2046,16 @@ Source: https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food
 Source: https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources (browser)
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 48}
 - Unclassified samples (of 25):
-  - `(no text)` - could not work out doc type and series - context: Notes and guidance: Grade boundary guidance - https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/61898b0f9f8cf99e4667cbf6506c37671b88ff29.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/7c8d4b42c166fe23dcb63897becd7682b0fbea94.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/2ff0fa42fb06272872f84fc7be38bb580f7f864d.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fec031c241c95c0df79dbe732fcf0342a22cae4c.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/b751f11daf7a5c47825d968601d151b7ad80b2ad.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/c74afbe1f3124072eaf2bfe246e619c631ee34bb.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/d50e31ae4519626e04932ddbaed5e5886b51bac8.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/77e2132aa36f718b5d83855a457edfa01e4649b1.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/585d85a1046e7d42e8fa78ffbbbc615237956248.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/2c9428c3df853f95bae6bff6b27d260933efddc4.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/f25a2c6d91fb615ef4cf2a9d57547dc9aa30bd30.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/7c8d4b42c166fe23dcb63897becd7682b0fbea94.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fec031c241c95c0df79dbe732fcf0342a22cae4c.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/577bf038cab56cf0525d80ff2328e04818e302ae.pdf
+  - `(no text)` - could not work out doc type and series - context: Notes and guidance: Grade boundary guidance - https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/61898b0f9f8cf99e4667cbf6506c37671b88ff29.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/2ff0fa42fb06272872f84fc7be38bb580f7f864d.pdf
 
 ### aqa-gcse-french-8658
 
@@ -2112,11 +2084,11 @@ Source: https://www.aqa.org.uk/subjects/german/gcse/german-8662/assessment-resou
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/0320f2c0dcf088e51415d2ddf1d8f3a42bba766d.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a60ced71de0e3e8e5e386d5484fc6615a604c99c.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/b260b5c07ccef15420a267062b90bfc2a26454f6.pdf
-  - `(no text)` - could not work out doc type and series - context: Notes and guidance: Grade boundary guidance - https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/61898b0f9f8cf99e4667cbf6506c37671b88ff29.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/520588788cf86268444859c6ac08afef000bbbe6.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/f3ea228ffd82cf0f6fee36ed1986581a44b60ec7.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/31cb64da1469e0419df64cd4e8710284eea82274.pdf
+  - `(no text)` - could not work out doc type and series - context: Notes and guidance: Grade boundary guidance - https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/61898b0f9f8cf99e4667cbf6506c37671b88ff29.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/4190a53aa94db00dc20728dce26fdad7191cf6be.pdf
 
 ### aqa-gcse-german-8668
@@ -2236,13 +2208,13 @@ Source: https://www.aqa.org.uk/subjects/physical-education/gcse/physical-educati
 - Unclassified samples (of 68):
   - `2027 centre declaration sheet PDF • 73.49 KB • Published: 06 Oct 2026` - could not work out doc type - context: Examiner report: Component 3 NEA Practical performance - June 2025 - Physical Education > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/5ddceb6d-04fa-45fd-8193-cbf5452b6943/b13bf28632a8bf8f1505e57790277c82b8bd6b0d.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/4d7ce8f614e0d5cbefa0f83c34393be858eb7ff1.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/72d34e5189a434cc6a361e9b246ac3a124b6ce2e.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/347435c28374336437b92e6619e1bdf1475b8403.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/72d34e5189a434cc6a361e9b246ac3a124b6ce2e.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/d37e30e9708785e6c67af2cfc72b50ce52ebae75.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/f04825cbd827700818aa49e0c00fae0a80c7e275.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/f7701bc0330aadac3450475e4523347faeb81d23.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/40a941b485ed7e014c748e95940a8227cb3020e3.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/b313c0d5f33964224ffad4be9138686e0ad8fa8c.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/f04825cbd827700818aa49e0c00fae0a80c7e275.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/bf30deab2b938d4d4e42e8b45171abc2d62eb861.pdf
 
 ### aqa-gcse-physics-8463
@@ -2259,8 +2231,8 @@ Source: https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/assessment-res
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/a3d5ef539ca38e622dffd5367814d4f27a01ca6f.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/3f135322537e2c1a6a08e1b575d97b02406bd1b9.pdf
   - `(no text)` - could not work out doc type - context: Question paper (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/c7fea85a8a1fbd9c801e6f075bf3919a721d4d82.pdf
-  - `(no text)` - could not work out doc type - context: Insert (Higher): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/1c3e60b181036bcbc2e37485aaaf446ba5f34d9f.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/497cb7d82fc035f1bc44219edd9f7e23ea37b90a.pdf
+  - `(no text)` - could not work out doc type - context: Insert (Higher): Paper 1 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/1c3e60b181036bcbc2e37485aaaf446ba5f34d9f.pdf
   - `(no text)` - could not work out doc type - context: Mark scheme (Higher): Paper 2 - June 2025 - https://cdn.sanity.io/files/p28bar15/green/3079bd0b0bf255ac16e714fa5ce29db1a8ed5ee8.pdf
 
 ### aqa-gcse-polish-8688
@@ -2305,7 +2277,7 @@ Source: https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies
 - Document types: {'mark_scheme': 48, 'question_paper': 48, 'examiner_report': 34}
 - Levels: {'GCSE': 130}
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 103}
-- Unclassified samples (of 152):
+- Unclassified samples (of 153):
   - `Insight report: results at a glance - June 2019 - Religious Studies PDF • 500.42 KB • Published: 17 Sep 2019` - could not work out doc type - context: Mark scheme: Paper 1 Section A Option 4 The study of religions (Judaism) - November 2020 - Religious Studies > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.rs.AQA-8061-8062-8063-RIS-2019_PDF/526aa952ac52d38437192417ee613f6b3a87ec9a.pdf
   - `GCSE Religious Studies - Summary of changes June 2026 PDF • 130.92 KB • Published: 14 Mar 2025` - could not work out doc type - context: Mark scheme - Paper 1 Section A Option 2 The study of religions (Christianity) - Sample set 1 from 2026 - Religious Studies > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/a8b2db9a-30f7-4fdc-b5bc-c3c671d4e8bf/17b81d9febe3965116bea026d1f9448a3496368c.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/41e7385518901dae1a6dcff1f91ae134db5d7e3e.pdf
@@ -2323,17 +2295,17 @@ Source: https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies
 - Document types: {'question_paper': 86, 'mark_scheme': 87, 'examiner_report': 66}
 - Levels: {'GCSE': 239}
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 214}
-- Unclassified samples (of 290):
+- Unclassified samples (of 291):
   - `Insight report: results at a glance - June 2019 - Religious Studies PDF • 500.42 KB • Published: 17 Sep 2019` - could not work out doc type - context: Question paper: Paper 1 Option 4 The study of religions (Hinduism) - June 2022 - Religious Studies > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.rs.AQA-8061-8062-8063-RIS-2019_PDF/526aa952ac52d38437192417ee613f6b3a87ec9a.pdf
   - `Insight report: results at a glance - June 2018 - Religious Studies GCSE Religious Studies • PDF • 626.16 KB` - could not work out doc type - context: Question paper: Paper 2B Textual studies - June 2024 - Religious Studies > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/resources.rs.AQA-8062-RIS_PDF/0dbe91c4b8eb9722ea46960d7ef8194965979499.pdf
   - `GCSE Religious Studies - Summary of changes June 2026 PDF • 130.92 KB • Published: 14 Mar 2025` - could not work out doc type - context: Examiner report: Paper 1 Option 7 The study of religions (Sikhism) - June 2023 - Religious Studies > Explore your results with Data Insights > 10 - https://www.aqa.org.uk/files/a8b2db9a-30f7-4fdc-b5bc-c3c671d4e8bf/17b81d9febe3965116bea026d1f9448a3496368c.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/97def0be5689ef1fcd8bce9253235db0c851f424.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/33c3b4e98c564dc8a7c97b3339e48b03d8aa5901.pdf
+  - `(no text)` - could not work out doc type and series - context: Question paper - Paper 1 Option 3 The study of religions (Christianity) - Sample set 1 from 2026 - https://cdn.sanity.io/files/p28bar15/green/c0339ed81d9cd49663a1ac9d556875831cd99b24.pdf
+  - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Option 3 The study of religions (Christianity) - June 2024 - https://cdn.sanity.io/files/p28bar15/green/9df47a25793280d9e7296d7d97366d9170a65b11.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/9b43fc703547a331d4a4c75353933f2b0fa2eb2c.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ca985272cb3fce64e31f311bd77771519da1addb.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Option 3 The study of religions (Christianity) - June 2025 - https://cdn.sanity.io/files/p28bar15/green/0237b88577fe7fc8c0ca3fc3bbd54cffbf870020.pdf
-  - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Option 3 The study of religions (Christianity) - June 2025 - https://cdn.sanity.io/files/p28bar15/green/b0a1c85085744d9790e8f4ce954bf77c3fbaefbf.pdf
-  - `(no text)` - could not work out doc type - context: Mark scheme: Paper 1 Option 1 The study of religions (Buddhism) - June 2025 - https://cdn.sanity.io/files/p28bar15/green/4d90501667c9d52a25c3e9435c682cd3b82d4a2a.pdf
-  - `(no text)` - could not work out doc type - context: Question paper: Paper 1 Option 1 The study of religions (Buddhism) - June 2025 - https://cdn.sanity.io/files/p28bar15/green/18ac96de103f5140b1500145f4137efdfd61a0ac.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/4d1bd7ee364cb7ce0dd767759ba74968feacd1a8.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/64d1b51f1bea5a12a117a222ebb8c4ab1426a228.pdf
 
 ### aqa-gcse-religious-studies-8063
 
@@ -2384,8 +2356,8 @@ Source: https://www.aqa.org.uk/subjects/spanish/gcse/spanish-8692/assessment-res
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/056d1c1cbe41a97b0693360e9630855d25e089a7.pdf
   - `(no text)` - could not work out doc type and series - context: Notes and guidance: Grade boundary guidance - https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/61898b0f9f8cf99e4667cbf6506c37671b88ff29.pdf
+  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/5f27038b2cf6ad858be063d5755ecc913721f47f.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/b0709cc9eef440ea6cb598e912d7ff3f6a7f086a.pdf
-  - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/312e3b745defb529a6b9fe2bee6aaaf7a0a9aac5.pdf
 
 ### aqa-gcse-spanish-8698
 
@@ -2396,7 +2368,7 @@ Source: https://www.aqa.org.uk/subjects/spanish/gcse/spanish-8698/assessment-res
 - Unclassified samples (of 293):
   - `Insight report: results at a glance - June 2019 - Spanish GCSE Spanish • PDF • 462.05 KB • Published: 17 Sep 2019` - could not work out doc type - context: Question paper (Modified A4 18pt) (Higher) : Paper 4 Writing - June 2023 - Spanish > Filter > 10 - https://www.aqa.org.uk/files/resources.spanish.AQA-8698-RIS-2019_PDF/629f14badc1b509bbefeef96a700ef7f7b69b305.pdf
   - `Insight report: results at a glance - June 2018 - Spanish GCSE Spanish • PDF • 1.93 MB • Published: 04 Sep 2015` - could not work out doc type - context: Examiner report (Higher) : Paper 4 Writing - June 2023 - Spanish > Filter > 10 - https://www.aqa.org.uk/files/resources.spanish.AQA-8698-RIS_PDF/3533b6a52f20b07d915b5281839d583d4cc3d7b7.pdf
-  - `Assessment material (Foundation): Paper 2 Speaking - June 2024 - Spanish GCSE Spanish • PDF • 435.6 KB • Published: 11 Jul 2025` - could not work out doc type - context: Question paper (Foundation): Paper 3 Reading - June 2024 - Spanish > Filter > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-8698SF-AM-JUN24_PDF/5e9438426d3b4752e303c546cbc47952e1a7ea56.pdf
+  - `Assessment material (Foundation): Paper 2 Speaking - June 2024 - Spanish GCSE Spanish • PDF • 435.6 KB • Published: 11 Jul 2025` - could not work out doc type - context: Filter > 10 > GCSE Spanish8698 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-8698SF-AM-JUN24_PDF/5e9438426d3b4752e303c546cbc47952e1a7ea56.pdf
   - `Candidate material (Higher): Paper 2 Speaking - June 2024 - Spanish GCSE Spanish • PDF • 686.11 KB • Published: 11 Jul 2025` - could not work out doc type - context: Assessment material (Foundation): Paper 2 Speaking - June 2024 - Spanish > Filter > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-8698SH-CM-JUN24-CR_PDF/8e0ef24ca0bea141fc2d090be9493ea44f8651de.pdf
   - `Candidate material (Foundation): Paper 2 Speaking - June 2024 - Spanish GCSE Spanish • PDF • 678.88 KB • Published: 11 Jul 2025` - could not work out doc type - context: Examiners report (Higher): Paper 3 Reading - June 2024 - Spanish > Filter > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-8698SF-CM-JUN24-CR_PDF/e076cd923e74dccf4461fcecc4e9f66ca20aa832.pdf
   - `Candidate material (Higher): Paper 2 Speaking - June 2024 - Spanish GCSE Spanish • PDF • 447.63 KB • Published: 11 Jul 2025` - could not work out doc type - context: Candidate material ( Modified A3 36pt) (Higher): Paper 2 Speaking - June 2024 - Spanish > Filter > 10 - https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-8698SH-CM-JUN24_PDF/d868f8d060ec111c00c0ecd7af4fc5457193490c.pdf
@@ -2465,7 +2437,7 @@ Source: https://www.aqa.org.uk/subjects/projects/level-three/projects-7993/asses
 - Document types: {'examiner_report': 12}
 - Levels: {'Level 3 Certificate': 12}
 - Skipped: {'not a paper (modified, specimen, data sheet, etc.)': 7}
-- Unclassified samples (of 15):
+- Unclassified samples (of 16):
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/0e5d497c7b54a473f5566ad56c66ad35a212ceab.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/fa246dd5d7dc686c17d93e113bdfafcea9e00317.pdf
   - `(no text)` - could not work out doc type and series - context: (none) - https://cdn.sanity.io/files/p28bar15/green/ac0b1381f011004f044345719079f21bd0bce035.pdf

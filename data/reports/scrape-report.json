@@ -59,22 +59,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/107c6e676d1afbe16dd83555c05fdd63013345a1.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme (Higher): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/41c34dc473b11ba6d0bd21ec5d885730c20fd4ce.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Foundation): Paper 2 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ec49086966c204b53a24ba8c62d5ae14a64849ac.pdf",
     "text": "",
     "context": [
@@ -83,10 +67,26 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/107c6e676d1afbe16dd83555c05fdd63013345a1.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/52aa82e4d6da45fae8b182384d8e5f11dfccb898.pdf",
     "text": "",
     "context": [
      "Mark scheme (Foundation): Paper 2 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/41c34dc473b11ba6d0bd21ec5d885730c20fd4ce.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Foundation): Paper 2 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -131,6 +131,30 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/19141a5503fb51b7d944d33c197942392b0d0fca.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A4 18pt) (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/39ea8f7af3343b2a238fdbaed69db631d96edb34.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A4 18pt) (Higher): Paper 2 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/cacfb68fa49512db209cf0fdbe5b5aff8c0f4dda.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A3 36pt) (Higher): Paper 2 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
     "text": "",
     "context": [
@@ -143,6 +167,14 @@
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/655e65dd73cee18d7f5392c2ce6fe9142da30f06.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A3 36pt) (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ecaa4fa9ce38d87f90c9511c28ad48e8673f15a4.pdf",
@@ -283,14 +315,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d6a2b067a491108a26651e091b30e4a1bdb67c3b.pdf",
-    "text": "",
-    "context": [
-     "Examiner report (Foundation): Paper 2 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/46116ac691d43d67fbc6a7ed334827b66a097efe.pdf",
     "text": "",
     "context": [
@@ -299,10 +323,10 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6ac23c76fdc5db543e571b436f46445c402d79c8.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/d6a2b067a491108a26651e091b30e4a1bdb67c3b.pdf",
     "text": "",
     "context": [
-     "Question paper (Modified A4 18pt) (Foundation): Paper 1 - June 2025"
+     "Examiner report (Foundation): Paper 2 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -311,6 +335,14 @@
     "text": "",
     "context": [
      "Examiner report (Foundation): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/6ac23c76fdc5db543e571b436f46445c402d79c8.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A4 18pt) (Foundation): Paper 1 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -383,12 +415,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0d8ad804cb433345897ca657b957cede6f64559d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/1bf525e65a7ca16dc22d758135f4eba013316798.pdf",
     "text": "",
     "context": [],
@@ -396,6 +422,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ad65d495a9e981f049d3a2c4b5bc775f4e71e7a1.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/0d8ad804cb433345897ca657b957cede6f64559d.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -481,6 +513,18 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a97c19dab3923f967a3a318751460756d9b572e1.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7d4f2d2cb667ca8cd3aefc3c587e8d226c6fe329.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/617735f0254068bc5e9f6b4e8078b7caa48b8d25.pdf",
     "text": "",
     "context": [],
@@ -507,13 +551,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a97c19dab3923f967a3a318751460756d9b572e1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7d4f2d2cb667ca8cd3aefc3c587e8d226c6fe329.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c4c33393a23d7502400747e7a8ce6e9ce0df16c4.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -545,12 +583,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c4c33393a23d7502400747e7a8ce6e9ce0df16c4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/601ca8f9e748c19c4ed6efb359e5daad8f854a3c.pdf",
     "text": "",
     "context": [],
@@ -575,6 +607,14 @@
     "text": "",
     "context": [
      "Examiner report (Foundation): Paper 2 - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/91d85b8e29e1f9edb82c9d9e72324057e39e0b4e.pdf",
+    "text": "",
+    "context": [
+     "Question paper ( Modified A4 18pt) (Foundation): Paper 1 - June 2024"
     ],
     "why": "could not work out doc type"
    },
@@ -639,38 +679,6 @@
     "text": "",
     "context": [
      "Question paper (Modified A3 36pt) (Foundation): Paper 2 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/91d85b8e29e1f9edb82c9d9e72324057e39e0b4e.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt) (Foundation): Paper 1 - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/19141a5503fb51b7d944d33c197942392b0d0fca.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt) (Higher): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/39ea8f7af3343b2a238fdbaed69db631d96edb34.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt) (Higher): Paper 2 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cacfb68fa49512db209cf0fdbe5b5aff8c0f4dda.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt) (Higher): Paper 2 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -923,14 +931,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/655e65dd73cee18d7f5392c2ce6fe9142da30f06.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt) (Higher): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ec1eba1af2920dfbc32364675f78983cb89d2314.pdf",
     "text": "",
     "context": [
@@ -1002,14 +1002,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/30eab43ad173a1857b2d9247fb338cfa21f5e8dd.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme (Higher): Paper 2 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/c586a6747c7a8b6c8f71bfc687df95d248b4a913.pdf",
     "text": "",
     "context": [],
@@ -1020,6 +1012,14 @@
     "text": "",
     "context": [
      "Question paper (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/30eab43ad173a1857b2d9247fb338cfa21f5e8dd.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme (Higher): Paper 2 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -1082,6 +1082,38 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/1c9f65ecae4f06c77abf685b881b36e646a4dccd.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A3 36pt) (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/ade9bf7d4310acba4c52c292977b830525ea881d.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A4 18pt) (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/ff767805cedd8464e023057632fd11f95fd0dd1d.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A3 36pt) (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/3ae143743d9353839adec5528288dbbc15d2f7c3.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A4 18pt) (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/e712647aac2b2bc2acc712e346dea258836f3791.pdf",
     "text": "",
     "context": [],
@@ -1106,18 +1138,18 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/d451f429ccfed69977a4cd4b8a0892961ab6a379.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/bbf4010e2228c480edeb21fc13c957b5a35ea6dd.pdf",
     "text": "",
     "context": [
      "Question paper (Foundation): Paper 1 - June 2025"
     ],
     "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d451f429ccfed69977a4cd4b8a0892961ab6a379.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/aad8d4f710f17456e2cbe6373a179e7c0c5a0a89.pdf",
@@ -1306,38 +1338,6 @@
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1c9f65ecae4f06c77abf685b881b36e646a4dccd.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A3 36pt) (Higher): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ade9bf7d4310acba4c52c292977b830525ea881d.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt) (Higher): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ff767805cedd8464e023057632fd11f95fd0dd1d.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt) (Higher): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/3ae143743d9353839adec5528288dbbc15d2f7c3.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt) (Higher): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/8028722e96491cb3b37c13304aa7749a109eda62.pdf",
@@ -2295,10 +2295,10 @@
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/english/gcse/english-8700/assessment-resources",
   "mode": "browser",
-  "links": 437,
-  "kept": 120,
+  "links": 463,
+  "kept": 125,
   "skipped": {
-   "not a paper (modified, specimen, data sheet, etc.)": 132
+   "not a paper (modified, specimen, data sheet, etc.)": 136
   },
   "unclassified": [
    {
@@ -2442,18 +2442,18 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7590eea6fb0f53a8098a7d5ce126265a18db878d.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 1 Explorations in creative reading and writing - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/e59fe981d54968960dd8be4badab686c7f38a6f8.pdf",
     "text": "",
     "context": [
      "Question paper: Paper 1 Explorations in creative reading and writing - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7590eea6fb0f53a8098a7d5ce126265a18db878d.pdf",
+    "text": "",
+    "context": [
+     "Insert: Paper 1 Explorations in creative reading and writing - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -2466,6 +2466,14 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/6aa34e45bd886bd57e9d84ab9eb0677dee56814f.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Explorations in creative reading and writing - November 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/fb5a5f46957c41aa6dcddd59c96bf4c5fa602df0.pdf",
     "text": "",
     "context": [
@@ -2474,10 +2482,10 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6aa34e45bd886bd57e9d84ab9eb0677dee56814f.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4d8eecb028d7aae94db02b661700045a72ad9832.pdf",
     "text": "",
     "context": [
-     "Question paper: Paper 1 Explorations in creative reading and writing - November 2024"
+     "Mark scheme: Paper 1 Explorations in creative reading and writing - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -2502,14 +2510,6 @@
     "text": "",
     "context": [
      "Insert: Paper 1 Explorations in creative reading and writing - November 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4d8eecb028d7aae94db02b661700045a72ad9832.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Explorations in creative reading and writing - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -2544,12 +2544,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5a83435e98a5c21dce4ae7ae6caab03614734eac.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/58601b8c5c9bfb612b54c689d26ec7e7b5e235b3.pdf",
     "text": "",
     "context": [
@@ -2564,6 +2558,12 @@
      "Mark scheme: Paper 2 Writers viewpoints and perspectives - November 2024"
     ],
     "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/5a83435e98a5c21dce4ae7ae6caab03614734eac.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/6627251a69f6772ab747da14b6eb5dcd9701ae5d.pdf",
@@ -2724,13 +2724,13 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/fac86b7e7420be81ec642271ec548a427f75f122.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/231a9021c8b7e061a421c6ab26ee79c1e693a075.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/231a9021c8b7e061a421c6ab26ee79c1e693a075.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/fac86b7e7420be81ec642271ec548a427f75f122.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -3614,19 +3614,156 @@
      "2027 Centre declaration form – NEA, fieldwork, live performance and practical programming"
     ],
     "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/17323b7e3c6afa507bc232dd1e3ed0ef1ddc8711.pdf",
+    "text": "",
+    "context": [
+     "Insert: Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/51672d1d5e404248b224af5170bd138cfdf1a4c7.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A4 18pt): Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/638be893e478d0e139543e801a9041ffb4e2de9e.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A3 36pt): Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/f7ca74e7ef42ede40421907835391b57f7b65c30.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/8c050d4ce6068762cad1f0a592df73049c32289e.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/2d5e32aec6ce8fba5dff9fe33fb7d7392befa775.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A4 18pt): Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/92caa080174889b4bd124fcb96c4106fb73ff915.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A3 36pt): Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/8fc6bfacdd5eca48f2fa6498c9e365fedfc737ea.pdf",
+    "text": "",
+    "context": [
+     "Examiner report: Paper 1 Explorations in creative reading and writing - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4d642c1f642c8ccea1d1e6d3c440c9eb45a43bae.pdf",
+    "text": "",
+    "context": [
+     "Insert: Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4d6dbe09dd1cdbd7bc23865cbbc3221396c29764.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A4 18pt): Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/252b018f8c118ecefd9e98f9bd181e42a7f5a089.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A3 36pt): Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/5056f00d0f4ff7b52c939b820ada794fb78caf63.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a4af9eb7ac206c859a1a1e0d472963cb09301ca3.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A4 18pt): Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/41a59c56b565d016ed4bd1c55553eb5b056ad7c5.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A3 36pt): Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/b1b4bb6d951befa158a1c1416baa5b74fb363501.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7a0e64ff1c0613d75a459dc8a90e4f61e525465a.pdf",
+    "text": "",
+    "context": [
+     "Examiner report: Paper 2 Writers viewpoints and perspectives - November 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/577ed8feb56f94fd1d86902a65f8b1772a1a0de4.pdf",
+    "text": "",
+    "context": [
+     "Examiner report: 8700C - November 2025"
+    ],
+    "why": "could not work out doc type"
    }
   ],
   "notes": [
-   "stopped paging after page 19: Next button could not be clicked",
-   "read 19 pages of results"
+   "stopped paging after page 20: Next button could not be clicked",
+   "read 20 pages of results"
   ],
   "doc_types": {
-   "insert": 25,
-   "question_paper": 27,
-   "mark_scheme": 28,
-   "examiner_report": 40
+   "question_paper": 28,
+   "insert": 27,
+   "mark_scheme": 29,
+   "examiner_report": 41
   },
   "series": [
+   "November 2025",
    "June 2025",
    "November 2024",
    "June 2024",
@@ -3640,7 +3777,7 @@
    "June 2018"
   ],
   "levels": {
-   "GCSE": 120
+   "GCSE": 125
   }
  },
  {
@@ -3678,7 +3815,7 @@
     "url": "https://www.aqa.org.uk/files/cdb8e145-2a83-4719-b644-2724ea7cff67/51a6be2e4b345e8d2109afac60b1072310153e45.pdf",
     "text": "Answers and commentary: A Taste of Honey - English GCSE English Literature • PDF • 660.23 KB • Published: 15 May 2026",
     "context": [
-     "Question paper ( Modified A3 36pt): Paper 2 Modern texts and poetry - June 2024 - English",
+     "Question paper (Modified A3 36pt): Paper 1 Shakespeare and the 19th-century novel - June 2025 - English",
      "Explore your results with Data Insights",
      "10"
     ],
@@ -3737,6 +3874,14 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/74621a3da483ecc4f5c285dd4b92250a57acea3f.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Shakespeare and the 19th-century novel - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/49efd01e02032667f676ec38406415c17aaed3db.pdf",
     "text": "",
     "context": [
@@ -3745,12 +3890,10 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/74621a3da483ecc4f5c285dd4b92250a57acea3f.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/923c7c652589d4719b9db4e10ed29069e1386763.pdf",
     "text": "",
-    "context": [
-     "Question paper: Paper 1 Shakespeare and the 19th-century novel - June 2024"
-    ],
-    "why": "could not work out doc type"
+    "context": [],
+    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/03f761e92d700e28198b3b0762a003f0e801a4e9.pdf",
@@ -3803,7 +3946,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/923c7c652589d4719b9db4e10ed29069e1386763.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7f33c8cc15a12834a91a04fc68f5cbbed2e19679.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -3828,12 +3971,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/f763f714e755438391080081adb86c4490b89ef7.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7f33c8cc15a12834a91a04fc68f5cbbed2e19679.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -3929,98 +4066,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4adc4dd72fc6b5576980da9afa1517b26140d017.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a74abe4e483cda6c8c2ccff47a69cd41ac97938a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/442b15bc3333c26f255c8eae816f153a8943839b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cd69a805bb83d40e27213f5baed1109d66df54c6.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/adb0737abf04ce4e532ee072f2de4806a8bd3b2c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a3b3d508a2c93d27d97a15ba2b07c689bb744bd7.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cc7524aac795241c24beffd0882c207dadec12bb.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c5098373f37c49467580521cb6b90ca19d819186.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b945e8e0136904eec82301839e81d29c5f3011e2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c6ef0d5565ccb1bef3372a36c6d2bb7ec22ca28a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f384f1af5aa5aadc244b1a3d3371a21b036be075.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt): Paper 1 Shakespeare and the 19th-century novel - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/71c1dad8e2a09bba552e948181640b06b11bb618.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A3 36pt): Paper 1 Shakespeare and the 19th-century novel - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/959570c1b8c034ec069bfd2260c7b4f51c18c882.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt): Paper 1 Shakespeare and the 19th-century novel - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/88b84de2ae3fa4767841691d420c2df97374053d.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt): Paper 1 Shakespeare and the 19th-century novel - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/3c014b4237d2e5f531a7eaa7131af9a15bac8085.pdf",
     "text": "",
     "context": [],
@@ -4045,6 +4090,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4adc4dd72fc6b5576980da9afa1517b26140d017.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/3369d7402be05d3f3c7b4e55a265040de3fe826f.pdf",
     "text": "",
     "context": [],
@@ -4063,7 +4114,25 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a74abe4e483cda6c8c2ccff47a69cd41ac97938a.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/3c6c0fa12169b4026ba2143c2ef6ccf26ba16fa9.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/442b15bc3333c26f255c8eae816f153a8943839b.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/cd69a805bb83d40e27213f5baed1109d66df54c6.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -4093,7 +4162,25 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/adb0737abf04ce4e532ee072f2de4806a8bd3b2c.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/9fa3a39f9fceedd3ada207abc4d558196a55fff1.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a3b3d508a2c93d27d97a15ba2b07c689bb744bd7.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/cc7524aac795241c24beffd0882c207dadec12bb.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -4117,6 +4204,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c5098373f37c49467580521cb6b90ca19d819186.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/4eb67f851950c90f2bd0f7f2e8688e5574a29bb2.pdf",
     "text": "",
     "context": [],
@@ -4130,6 +4223,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b296e495eb53ca08c880ae4462d824f912d7f71b.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/b945e8e0136904eec82301839e81d29c5f3011e2.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -4154,6 +4253,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/285ee3fc891b7890a6ab3ebbb8bb5b397fbd46e8.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c6ef0d5565ccb1bef3372a36c6d2bb7ec22ca28a.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -4213,6 +4318,14 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/f384f1af5aa5aadc244b1a3d3371a21b036be075.pdf",
+    "text": "",
+    "context": [
+     "Question paper ( Modified A4 18pt): Paper 1 Shakespeare and the 19th-century novel - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/027180ac3b98cac816b0109e2a20681f774ca7d1.pdf",
     "text": "",
     "context": [
@@ -4229,6 +4342,14 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/71c1dad8e2a09bba552e948181640b06b11bb618.pdf",
+    "text": "",
+    "context": [
+     "Question paper ( Modified A3 36pt): Paper 1 Shakespeare and the 19th-century novel - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/e7d39333ee9cbf24e78c3112b7da0c376997c234.pdf",
     "text": "",
     "context": [
@@ -4241,6 +4362,22 @@
     "text": "",
     "context": [
      "Question paper ( Modified A3 36pt): Paper 2 Modern texts and poetry - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/959570c1b8c034ec069bfd2260c7b4f51c18c882.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A4 18pt): Paper 1 Shakespeare and the 19th-century novel - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/88b84de2ae3fa4767841691d420c2df97374053d.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Modified A3 36pt): Paper 1 Shakespeare and the 19th-century novel - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -4345,1202 +4482,16 @@
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/assessment-resources",
   "mode": "browser",
-  "links": 428,
-  "kept": 110,
-  "skipped": {
-   "not a paper (modified, specimen, data sheet, etc.)": 147
-  },
-  "unclassified": [
-   {
-    "url": "https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2023.june.AQA-80353-PM-Jun23-CR_PDF/564ed02980602bc466977e04de40a4a5b0386431.pdf",
-    "text": "Preliminary material: Paper 3 Geographical applications - June 2023 - Geography GCSE Geography • PDF • 12.11 MB • Published: 07 Dec 2024",
-    "context": [
-     "Insert: OS map extract legend: Paper 1 Living with the physical environment - June 2023 - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2022.june.AQA-80353-PM-JUN22-CR_PDF/283c9596bc94bbfeaaaa71ebcebc73c601cc693a.pdf",
-    "text": "Preliminary material: Paper 3 Geographical applications - June 2022 - Geography GCSE Geography • PDF • 1.02 MB • Published: 14 Jul 2023",
-    "context": [
-     "Insert (Modified A4 18pt): questions 1, 2, 3, 4, 5: Living with the physical environment - June 2022 - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2020.november.AQA-80353-INS-NOV20-CR_PDF/18deb5a85ae7fafce8ead75e1c2998a418d62669.pdf",
-    "text": "Preliminary material: Paper 3 Geographical applications - November 2020 - Geography GCSE Geography • PDF • 2.23 MB • Published: 18 Jan 2022",
-    "context": [
-     "Insert: Paper 2 Challenges in the human environment - November 2020 - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2021.november.AQA-80353-PM-NOV21_PDF/4a76ef35542028af3f67c1ca052880e1f7323d4a.pdf",
-    "text": "Preliminary material: Paper 3 Geographical applications - November 2021 - Geography GCSE Geography • PDF • 959.62 KB • Published: 29 Jul 2022",
-    "context": [
-     "Question paper (Modified A3 36pt): Paper 1 Living with the physical environment - November 2021 - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-80353-CM-JUN24_PDF/0b42f4cd328217678563c290f79479f777cb79f8.pdf",
-    "text": "Candidate material: Paper 3 Geographical applications - June 2024 - Geography GCSE Geography • PDF • 9.04 MB • Published: 11 Jul 2025",
-    "context": [
-     "Preliminary material (Modified A3 36pt): Paper 3 Geographical applications - June 2022 - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c0b2adecbe1ddb3d7be035ff60b948743c186a82.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/64670034175bd2f294ed1ed9a3d159f46903a702.pdf",
-    "text": "",
-    "context": [
-     "Question Paper 1: Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a646d4c837770725d50c2fb54a7b88bf125e36e5.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c5ace14d598d7f88ed975f95504980895841183d.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/51ad47a8680caad9e904847a6ebf20b69b994084.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2a5ee649d5dbb8c594239fd1207be06e398cda1f.pdf",
-    "text": "",
-    "context": [
-     "Examiner report: Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/142ba885db671e3fbf77e473ab8d79ffa5699ef1.pdf",
-    "text": "",
-    "context": [
-     "Question Paper 3: Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/460506a72648e70169682f218a78ddfb791ad4d0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/93509870bf48384f2d7c7c0ca30f608bbdaed104.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/be935ea2fbe2ef4d7faff74d3e7c5fb63ace4c2c.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c16a965341826359bd92dfcd3729b7dbca2c3644.pdf",
-    "text": "",
-    "context": [
-     "Examiner report: Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0e9eee90cce5c4354624ddc2030b15ed79756534.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2b8395229fdc1da3db719f8e856fd2835c329a9b.pdf",
-    "text": "",
-    "context": [
-     "Examiner report: Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/80083c166306730f2d3146aae5314ce04ef693e1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/428ec04327607a5f9260596f1bf9680fa420c2d9.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/736318fd50c61ecd7fc6112a8a6fc545373ad056.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/47063e9fef9c5080b4a77a28fc30354c3d19e363.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a1b3fba285cd7d5c6329e0383df538ff4d65a9a7.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7b0977ca1828ae0a86062625c1c11f67f4e68b05.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/deb9f4df9b7ddc871b843e831efc701bc2768ed8.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c9a9e488d7d02cfd5c691cc951064d9a26802759.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0175f5fddf3542a6a5a72effe77fec5140eecfa4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6558863720e646df9f266723447ed8348477bd30.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e4e93cb5b96c9ff540d0b195e82c2d22a66f2ba5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/be1ae4f92a915f5f837d981e5535436993762dae.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1cc4fd3fbecbe80f996c4fe5b50f177504e07446.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/21b499a71b11c0c3b4ca29ebe94802a5f76f4f85.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/abd2541a0ca6fc66613fda7e628b19499d3a9dee.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5cfc0c7c360f6d19ab75ee321b450d250894a50a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0a7b326862df8def18c834f57c53ba56f4ce6836.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/726a8ff502cce3a780c81eb12beb7cabe7cd1d53.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ce3b018afc58f9a30be2e205e108294217c01c0d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/04b2631d556290a491b2ad764a77b69b94be0ada.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7b21ed3e27564f3d756400ed6d925b40c682777f.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7b210934518e3f5856b753e72ffeebc059c5c69a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2e9c2868043e69c9d886759dc195733c7fec3c29.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/197d0d09851e58af051f231af6a3bf17e3399432.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ce9c036d950b272d3a789d696319c8f3500d15cc.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/39d3736044b2a81bc2c1329d68b3d80cf7a4e8c5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6b73861d82b833a510d41ea6cb40570a4df14070.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9da493b7ed6928778dd6bff20300b6dfa0235222.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/3f9e5b051b4f87e7d5706130580084b55f3875f3.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/564ed02980602bc466977e04de40a4a5b0386431.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9a9dd9526a0145b4d909d25df19816b622115cd8.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f8d1755661edbb8076881d69ef2b85bfbaff4be6.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/25d5386b337b701acf6f20210b1e5c392077b91b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/68b9329bdb29c7cd12a51fddb426267942b63259.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b69ff5092e9f744ee088b2363ec9c20731f694d8.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/436ab651e398dd84e30338c36ac943a7ee54fb11.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7c2244dfb1b95852079771f43c74986cc1a2c30c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b2af03d3ec01b939b94868fc586e36fba9b70d7a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/73b5ba9330d6b956a30513ead4eb29926696d7b7.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/aeeaac19395e86d0d6a4b0d3e61cc751b3fb8e93.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0377f3f6ad978ee9f5e5803111765da34a3ec3e6.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b6116a0eada86f4d0e05e47fc9b8e3725d099041.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/483912438b7e405e667dc3d5d170003510c9873b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/64d251ffcddf13a9d66c5178a8b643a895e593bb.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/308bc7ac444a3fc66436afefd6bc36378a67d585.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/69aa02693c01411018116f44afca5905739a18b2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/003cb888bf92a698ce73c31584f1860c2908327d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7ab20b452e94a78d06efc4a738809ab84fab20e1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a90f1b1873477f85edceead5798dadcff2df0ef5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f54d7fb1b0d974816d658ff7a497b725ee0ffa36.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8387346f7c7beddbff749ba6662d47008280236a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b3c3203c8af35ab5880cb684e6d9b088e2d8c65d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0d4dc0519fa85966fecff03dd7edafc9d9f7ab27.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ef6addcfb1f52e6d651dfd665ecd09f2cbb35f59.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6cc88199a1ccf46d9e4dc7161cde4493da843a72.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/70450c8707fc4a73a1949689672ac1a025607714.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/283c9596bc94bbfeaaaa71ebcebc73c601cc693a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0f9b00ba8c3b807f7ada74b1e7ed916177b26809.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/420382b0a33a4f9d133b07a61d5af6bfc2da9895.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/45a225cc411eff9bb60d3977dd57672b689e3ca5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/fcdbb40bfbd8bb523304277f74aa45fdad734ab9.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/94f26ebdb8219666df4280cf2b80ba9de0787840.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/18deb5a85ae7fafce8ead75e1c2998a418d62669.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/20806d1cc21542c1844d2de60d6449ecfd9250ab.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4a76ef35542028af3f67c1ca052880e1f7323d4a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5bf7994d921492059750240d4c0cac99eb306673.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/63f1334bf241eabead2433ab12538734518be0d0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/67e273596addef8ddc1522c9c22553549ee40be0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0a8fe0565d5c69134d8c0782b840794010927d0e.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b26cafa235a5b4f3b971b927487efc04785173a2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9cfb4aec4ac32f517b48f72982be285d74bddf3f.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5f4ffff5b615863ab1eeb44b4137b495212e7ff9.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/73553dc75dd74ed4bd80c341f8b5b519bd7ecb64.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f8bf485083337e6fdd0d60406ea3be78a7c66135.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a692e9a289cd5e8425d75c1518df4a1e9a75f233.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/70c9b957fcf7e024105d38890232333c5faf33d4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/58fae4e7cc91dea615bdaaf17b0e8c94bfdaddf8.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f426af4ee0750e926a5fe148402f1f3b5ad38db4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6756f492fe2a7584590317d281f73979fb039848.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9f71c571e3445227ffde3bca1a0d852174519a13.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/aa7ac84eb749d9e032908d586ea7ce9cf20848d4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ec93044283bc26245706b6abd0d883e1c3670a8d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/3d94aff4fc91ae9f176a3c9c13ff1b9f695cbf4c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/542985e329066b442a53d2211e7b2d813f656944.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e23c3e542cc618c6606a476fc0ae57cd593ba904.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/940524b3ed49809efbab1d7273e23bb449b6286a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8d11d161a5ac189c23afd8807f0379857f826f90.pdf",
-    "text": "",
-    "context": [
-     "Examiners report: Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7e0dc6e0a135e079ae27699e85e3f741befa8d54.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/bf9a2b39fcd19cde65dae8942f1e20e6b95a5384.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f1717a94e0fa63700711b2d0866375fb9d1b00b5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/775ef1adf5c0cdcdc0b38c85ebde0baba5dda5fc.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/17faba63753f6418094efba0a14691de6fe617a4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7b9277d44abd9959c8eb55e44598beaeffb753af.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b4446dd100c0222881ae673f8f4263024101ff53.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/697bca718b4d79ee6e114ff2521de0be34f2bca2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/3e42d503b3980bdcc8c111b1d340b1531447d278.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a60c3fd2e8b5502f3c807cb55a2499b8d3c8af81.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b26f09814bc7b61f1069c224374316e69d96e083.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7c4bb8f0ca62b50481e16212a0aa27404b6c9dcf.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9b8c321d04dcc963dbb4930ef0dbb9cea0fc22d0.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A3 36pt): Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/76bd72dd3fb051acaa784ff48db982c3cefe2fed.pdf",
-    "text": "",
-    "context": [
-     "Examiners report: Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/039e4921d95ca7e3e449369c57bdacfa498c53fa.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1cb746ec2c0127ebdc6f3b558e601472e46cd339.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a568f721aba963df4f3d70d6eb866906fe86eb40.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c28b70f3b17a932fa5efd1d384e125aca4d0e06f.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1ed2249f296621ac1bd25d248742874bd9005947.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/dd79fda396d7773b1690f75eeb4bcb701cea3197.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a7a2f65ff65f24b02722ec3dbd489022dd98b4d1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1f7664fabd1eb3696885944d817bc21ad255a509.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A4 18pt): Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b29d91412b05b186006c4f8ed993317f5186304d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0319d04f21926b6f612816ed3fe81ec169d28cd4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/319816a019e718a73494f3995f7dff7219520ed7.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A4 18pt): Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4d582464c2071e9dc35471e2dc537bcc665def42.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A3 36pt): Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a49507d332f71d8cd56fcf3ec1a05e5e87c3bbad.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt): Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/553bcb332b34bb4f0600647c4b59420b059cfe72.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A3 36pt): Paper 1 Living with the physical environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/574c1d8b4cc970447db0efc52d237ea327e6c417.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A3 18pt): Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5777afb111d2d205dd98d8a6485ca149a0d045dd.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A4 18pt): Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/47d94a06109fd3b93d977cc2c358566b33d1df93.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A3 36pt): Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/578152ad6010d578966366330356d307574c4191.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt): Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/188a3b59c4cf6ebec52d9d545724aac7eafcbcfc.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A3 36pt): Paper 2 Challenges in the human environment - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b90cd108831f9db9b1f32ec6dcae45b1e07b39d5.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A3 36pt): Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/72455560c9722928a8f9d2ce5f7bc07e1eae74d7.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt): Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/257fbf0ac6a538812977398d3eead283408f0839.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A3 36pt): Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/db9448a2fa4187549f74b1eb3fbd22b6a8e60ac4.pdf",
-    "text": "",
-    "context": [
-     "Examiners report: Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ca3d72c9975b9341359f991997be4c0757db264c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/13a57a57ffb2120df7bf087c9143360fcdf87ed5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/11e6997dbfa60cf9c99fa5175a5afa793084527c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c3a2ae08d957659901b665c6ded0fd93c191b8d5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0b42f4cd328217678563c290f79479f777cb79f8.pdf",
-    "text": "",
-    "context": [
-     "Candidate material: Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7bd0d4025a36e15b75fed851e7d00269730ae795.pdf",
-    "text": "",
-    "context": [
-     "Candidate material ( Modified A4 18pt): Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4d404ab3b372527f2a687d414c451cb443493841.pdf",
-    "text": "",
-    "context": [
-     "Candidate material ( Modified A3 36pt): Paper 3 Geographical applications - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/65f18a3a7eedda7fc3fc742ee3a23330c1a3a2ed.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt): Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/280ffb5ca03fcc1305b854aa3c6c84ff984cbb8c.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 24pt): Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2e67fb06ccb581595b07ccea37d8037b2d111483.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A3 36pt): Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/01df1a075f309030560ac2b354354cb65615b61d.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt): Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/43a78a6770290c7f7eadc3cb46bf0544a0135ff2.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 24pt): Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cbc89dc558c6cb1f6ac34f679241a5a961768a8c.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt): Paper 1 Living with the physical environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e27984fc3dfe14d1baf0bf4e9c08821495120e4e.pdf",
-    "text": "",
-    "context": [
-     "Data booklet (Modified A3 18pt): Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b52d06a906aa8131198d99694de63a62ac246c79.pdf",
-    "text": "",
-    "context": [
-     "Data booklet (Modified A4 18pt): Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/07341e6168d18c52883a3e6ca1b44620d4960d5a.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt): Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f095a57fbb9ae92c756e03ab5990b4b42d703a1d.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 24pt): Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/df1d725bed2e3c89dc0e7c67ec86aa7384eb91a7.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A3 36pt): Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8796b82d7a2295a8437c4849694cb5cdf7f083fa.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt): Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/aca32901bcbaa858fcc032712433ae5b80f5044d.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt): Paper 2 Challenges in the human environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/214fa3dbd43a22a1db3684435184b7694c0f5a6c.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt): Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a050a375df4182e2b299272bb3e46f47563f3b02.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 24pt): Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9a5b562d27f95d2b78ceeb822d9aceee854363a3.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A3 36pt): Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1e882fabae13ef19265fb3fc957119025eb45264.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt): Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b97d2b2f124da43430d654277e11f98c16249c84.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 24pt): Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b728fc1d31be40950c12242b3451f919c94881b2.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 24pt): Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0aab66c274929fca48176f9e2b14b5968e709de0.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt): Paper 3 Geographical applications - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5728b823843292fb19fb9b7e8095d7bf87dc0f7d.pdf",
-    "text": "",
-    "context": [
-     "Notes and guidance: Artificial intelligence (AI) guidance"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ec1eba1af2920dfbc32364675f78983cb89d2314.pdf",
-    "text": "",
-    "context": [
-     "2027 Centre declaration form – NEA, fieldwork, live performance and practical programming"
-    ],
-    "why": "could not work out doc type and series"
-   }
-  ],
+  "links": 0,
+  "kept": 0,
+  "skipped": {},
+  "unclassified": [],
   "notes": [
-   "stopped paging after page 17: Next button could not be clicked",
-   "read 17 pages of results"
+   "\"a[href*='.pdf' i], a[href*='filestore' i]\" never appeared"
   ],
-  "doc_types": {
-   "mark_scheme": 30,
-   "question_paper": 30,
-   "examiner_report": 30,
-   "insert": 20
-  },
-  "series": [
-   "June 2025",
-   "June 2024",
-   "June 2023",
-   "June 2022",
-   "November 2021",
-   "November 2020"
-  ],
-  "levels": {
-   "GCSE": 110
-  }
+  "doc_types": {},
+  "series": [],
+  "levels": {}
  },
  {
   "seed": "aqa-gcse-history-8145",
@@ -5580,30 +4531,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1f9169eab120b6e3fce3e4aa1cc5248666c8b1a7.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a128c8635d187b782cf531c2b37ff140d607311c.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9648b5461fd025b80c49b71ca918af9d3cb8aaa3.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/2a58c0bc7df7235639201534a6312fbc38999c9d.pdf",
     "text": "",
     "context": [
@@ -5632,6 +4559,30 @@
     "text": "",
     "context": [
      "Question paper: Paper 1 Section A Option A America, 1840-1895: Expansion and consolidation - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/1f9169eab120b6e3fce3e4aa1cc5248666c8b1a7.pdf",
+    "text": "",
+    "context": [
+     "Insert: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9648b5461fd025b80c49b71ca918af9d3cb8aaa3.pdf",
+    "text": "",
+    "context": [
+     "Insert: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a128c8635d187b782cf531c2b37ff140d607311c.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -5738,100 +4689,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4f0498a5e00222fc9ed5f7b711db9488ca5d8f00.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8a2063ad445e08aedd66e82519075d84f7c644d1.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 2 Section B Option B Medieval England: the reign of Edward I, 1272-1307 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/605cffa6d02a8d0a444e35dcb905a19409d4bd06.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 2 Section B Option B Medieval England: the reign of Edward I, 1272-1307 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/eacb75f4fd49b1aed99cec3a46df5f36d23c2e08.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 2 Section B Option C Elizabethan England, c1568-1603 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7d4aa67e20bb33af591d240b9ce99b1110e30c76.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 2 Section B Option C Elizabethan England, c1568-1603 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6b5e3e41bf8ca06d4477c5e5d361539ca847cfa7.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 2 Section B Option C Elizabethan England, c1568-1603 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/948141b48e3bdda25517a72c9a98271ad86b71bf.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/839396ef1111faef19d508a773cc508e21918fde.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/253d120362bd2371b30da14b4bce43bdecdf4de7.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/46903bf5878dfcbde689850d57f4271ab17164a7.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a2064a8716bab9ff1ff9f0dbc7925bed3951ff6d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c0077a253be6585e0b77cad755b52ebabf5a3b12.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/41c603a30577faa2660a4128134352b273380094.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/feb589e8d2692a63533e12af5f2a44f177601f05.pdf",
     "text": "",
     "context": [],
@@ -5845,6 +4702,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/bc3bbbda02b2dd4af8845b63e50ab43066f1c9b2.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/46903bf5878dfcbde689850d57f4271ab17164a7.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -5881,6 +4744,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/369e706236a346d78e3a006fa0b5609e6e3d2b39.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4f0498a5e00222fc9ed5f7b711db9488ca5d8f00.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -6103,6 +4972,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/c6b474682acc67eef491222fe10cfdde53ea86e9.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a2064a8716bab9ff1ff9f0dbc7925bed3951ff6d.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -6534,6 +5409,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c0077a253be6585e0b77cad755b52ebabf5a3b12.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/4d9fe66f65c0dfbaaee3395da7d21be222a3734a.pdf",
     "text": "",
     "context": [],
@@ -6697,6 +5578,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/a73fdd5703df1cd32a43c78fdfc727f0318df6a8.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/41c603a30577faa2660a4128134352b273380094.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -8684,6 +7571,14 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/8a2063ad445e08aedd66e82519075d84f7c644d1.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 2 Section B Option B Medieval England: the reign of Edward I, 1272-1307 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b2558e35f5d132227037b2c1281a298d16e806f1.pdf",
     "text": "",
     "context": [],
@@ -9074,6 +7969,62 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/839396ef1111faef19d508a773cc508e21918fde.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/253d120362bd2371b30da14b4bce43bdecdf4de7.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Section B Option A Conflict and tension: The First World War, 1894-1918 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/948141b48e3bdda25517a72c9a98271ad86b71bf.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 2 Section A Option A Britain: Health and the people: c1000 to the present day - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/605cffa6d02a8d0a444e35dcb905a19409d4bd06.pdf",
+    "text": "",
+    "context": [
+     "Insert: Paper 2 Section B Option B Medieval England: the reign of Edward I, 1272-1307 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/eacb75f4fd49b1aed99cec3a46df5f36d23c2e08.pdf",
+    "text": "",
+    "context": [
+     "Insert: Paper 2 Section B Option C Elizabethan England, c1568-1603 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7d4aa67e20bb33af591d240b9ce99b1110e30c76.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 2 Section B Option C Elizabethan England, c1568-1603 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/6b5e3e41bf8ca06d4477c5e5d361539ca847cfa7.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 2 Section B Option C Elizabethan England, c1568-1603 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/eeab03296c22c480f085309900d32063e3a34d1b.pdf",
     "text": "",
     "context": [],
@@ -9265,8 +8216,8 @@
   ],
   "doc_types": {
    "insert": 138,
-   "mark_scheme": 145,
    "question_paper": 142,
+   "mark_scheme": 145,
    "examiner_report": 28
   },
   "series": [
@@ -9290,19 +8241,19 @@
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/assessment-resources",
   "mode": "browser",
-  "links": 1369,
+  "links": 1370,
   "kept": 466,
   "skipped": {
-   "not a paper (modified, specimen, data sheet, etc.)": 427
+   "not a paper (modified, specimen, data sheet, etc.)": 428
   },
   "unclassified": [
    {
     "url": "https://www.aqa.org.uk/files/resources.mathematics.AQA-8300-RS-NOV23_PDF/3482ee998fb51bb7ac17d1d017607608534b7686.pdf",
     "text": "Results snapshot - November 2023 - Mathematics GCSE Mathematics • PDF • 2.46 MB • Published: 23 Feb 2024 Exam preparation Analysis",
     "context": [
-     "Question paper (Higher) : Paper 3 Calculator - November 2022 - Mathematics",
      "Explore your results with Data Insights",
-     "10"
+     "10",
+     "GCSE Mathematics8300"
     ],
     "why": "could not work out doc type"
    },
@@ -9355,18 +8306,18 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/fc9ef8262b581fcc2228663a1afda68985a45db0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/1233ce24afc243694455719b6ee7ef3995669b37.pdf",
     "text": "",
     "context": [
      "Mark scheme (Higher): Paper 1 Non-calculator - June 2025"
     ],
     "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/fc9ef8262b581fcc2228663a1afda68985a45db0.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ef44bde7a57ba657aa1fb1927098c8bb9a68314c.pdf",
@@ -9545,18 +8496,18 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9d7e3543e6a0221083b473914176651b436e0c2f.pdf",
-    "text": "",
-    "context": [
-     "Insert (Higher): Paper 1 Non-calculator - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/af77ca00daf6a2726e6ff81c626c82a99d05866d.pdf",
     "text": "",
     "context": [
      "Mark scheme (Higher): Paper 2 Calculator - November 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9d7e3543e6a0221083b473914176651b436e0c2f.pdf",
+    "text": "",
+    "context": [
+     "Insert (Higher): Paper 1 Non-calculator - June 2024"
     ],
     "why": "could not work out doc type"
    },
@@ -9673,26 +8624,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d1e2ee02c0231b42dbca2a3c59f3e47ccde0e94c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/352b0314ca7f77ade26f13ce0e0d136622f74da7.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d7131939f5fcfc425c7068d43b28b6ddde2791f4.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Foundation): Paper 1 Non-calculator - November 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/49379fdd39ff4aedf606f9c03d1a65f34dfd9218.pdf",
     "text": "",
     "context": [],
@@ -9783,6 +8714,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/d1e2ee02c0231b42dbca2a3c59f3e47ccde0e94c.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/dde43bd8b161c5872ad9db66ba1119780732c74d.pdf",
     "text": "",
     "context": [],
@@ -9867,6 +8804,14 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/d7131939f5fcfc425c7068d43b28b6ddde2791f4.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Foundation): Paper 1 Non-calculator - November 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/8262d08e00cdc460ef82a22620f5772df0a440e3.pdf",
     "text": "",
     "context": [],
@@ -9892,6 +8837,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ccb1fee34025f26bcae54f8d48d48d765c3cc6b3.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/352b0314ca7f77ade26f13ce0e0d136622f74da7.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -12531,6 +11482,14 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/827a0ea833d051e609042c00a45c1b3cd3fa2584.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/60c1e1034ee616c3983f7f19150f1242765aa4ab.pdf",
     "text": "",
     "context": [
@@ -12591,14 +11550,6 @@
     "text": "",
     "context": [
      "Examiner report: Paper 3 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/827a0ea833d051e609042c00a45c1b3cd3fa2584.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -13345,19 +12296,13 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/da47494793ba667a78e5f909ac48eac3a984938d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2fbaba4c3532f27a77b8ee1d580a718bbdc21fb9.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/558ec17f502c2fb76b629bfdeb326da351d8039e.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/da47494793ba667a78e5f909ac48eac3a984938d.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -13382,6 +12327,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/0c0fd79fe2a8009ea489638358afec6ca3d693e3.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/2fbaba4c3532f27a77b8ee1d580a718bbdc21fb9.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -14775,800 +13726,164 @@
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/geography/a-level/geography-7037/assessment-resources",
   "mode": "browser",
-  "links": 282,
-  "kept": 82,
-  "skipped": {
-   "not a paper (modified, specimen, data sheet, etc.)": 89
-  },
-  "unclassified": [
-   {
-    "url": "https://www.aqa.org.uk/files/resources.geography.AQA-70373-NEA-ESI_PDF/0b72c7c348625df0667217cf1fbbbce952b657c1.pdf",
-    "text": "NEA task: Environmental and social impacts: Component 3 NEA Geography fieldwork investigation - Geography A-level Geography • PDF • 6.19 MB • Published: 13 Mar 2020",
-    "context": [
-     "Mark scheme: Paper 2 Human geography - June 2023 - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://www.aqa.org.uk/files/31fbc768-4e26-4cca-a44b-9f0c8ff9e4be/427e036327d49fa84bcdcb63e5d5466a39e8d277.pdf",
-    "text": "2027 candidate record form - A-level Geography NEA – Independent fieldwork investigation (7037/C) - Geography A-level Geography • PDF • 159.63 KB • Published: 21 Sep 2026",
-    "context": [
-     "Examiner report: Component 3 NEA Geography fieldwork investigation - June 2025 - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://www.aqa.org.uk/files/5ddceb6d-04fa-45fd-8193-cbf5452b6943/b13bf28632a8bf8f1505e57790277c82b8bd6b0d.pdf",
-    "text": "2027 centre declaration sheet PDF • 73.49 KB • Published: 06 Oct 2026",
-    "context": [
-     "2027 candidate record form - A-level Geography NEA – Independent fieldwork investigation (7037/C) - Geography",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://www.aqa.org.uk/files/f3c69023-0de3-4587-8a4e-47e556ead34d/ec1eba1af2920dfbc32364675f78983cb89d2314.pdf",
-    "text": "2027 Centre declaration form – NEA, fieldwork, live performance and practical programming PDF • 89.23 KB • Published: 07 Oct 2026",
-    "context": [
-     "2027 centre declaration sheet",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d797dfe2d465de401e20f4caed8c88698e576ab2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/171af16b1a1a80ad22b9c4354c209b8de93f8b13.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1c9879856f5a21faf817fad9d1df0d911d3f8704.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ba54865cb02c1dff078919daabc8c0f9df17e6c2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/29c88eb80d1ff02c1964d3aff35de8517e548c72.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e0c22c1cf71b404c31b69db039bf19f322c3b548.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2a87ed66ecb79446d458f4a83747c08c684cba15.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d23bdde5199f4899c8da259cd356a40f76d9a568.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2ea8cae0150257bcbfbc3166306419a6a35d3024.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8a551380e7fa9109a7823fe53894f438e5b678c0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0cb74fc625dbbe07ab4bf444d3af36c491c03b5b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://www.aqa.org.uk/filestore/resources/geography/AQA-70373-NEA-ESI.PDF",
-    "text": "NEA task: Environmental and social impacts: Component 3 NEA Geography fieldwork investigation",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0b72c7c348625df0667217cf1fbbbce952b657c1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a93152ed829b43d7b2af2e131f56785733d06238.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2152271efdc7b6c6bb95938f1e64f9c8deefd8ec.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/10581529bb55376caadcd34a1f3de7415ba7c00d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c2b038f860db2217ab7098aeb0424066358837ab.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/99a78f9a6204decd40e0a7e1c25862a2739ad003.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/14a44ba73c7dddc1c6a9d2469d0d38feb465188d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/96b4cbc7f8e3a2b77e208a8c2d2dc654e96a5eed.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0fa7f22c63c9b98413e28e6ae7fd94bab74c915b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c203a83fe20fb43e46e4db5a30093b962d6086fd.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/85ca52b410e6dcab97bb6d94afc8f82191860df4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/70be71e3217a2d6c125866d774a43151a91af9aa.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/bcc2e71a83e39e099fd79d385c2cbb77f30464ff.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f6f896b3e43d5a8bf835f238a6481a9dce885171.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9c67415f3c9be08293ef9ebf8cdfeafbf424cdc5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1ce43ab2a6cf2f46f527914afc28c9d13a43e042.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b6ddeec0cec4ef5942fedefc6424071d8bc3c7fa.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e543e8efec3e844e5ed4366fc7c87ddfa1b3ac81.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/505ba84b5c950c64b726a4fa2cc49c383ed3c11b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7171a7748597935f7397351d623fdbadc11dd903.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/12cd4ffa1e8ca7a9409bf028d6e8ed094157cbd5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0b4397e3d75d05956dbd3da0f6324e291cbfbb62.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/55c0f29b070d9a6697a2274b73748158f1557c84.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/55ef7343106092c99419036ff597267b23cda08e.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5157017ae28a84b8fb2b415d8f683a7aeba1d5c0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/25d5a27b30c646ed911a4fa095ce55adee0c50fd.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7fc0fa1a54e71ab75d799ef2138d27ff45e2c0ea.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b1c6eb26eda00233847835e26ede2df5a8185b40.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/141236797b3a0213f47006ae638d95a5a57213a9.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7c66d26f89d9914165c526563fbeb6b41ae153bc.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8ee506fc745a11df2833b1a8ca102913ded7a392.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/aed39c34a45f990b04ac46919b54abed7e99bb43.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/db5ca1849a8887fd08102427d143892e2f6d5638.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/caf333a6953f02e31ae00bb416a0a1a0eea763bd.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1f063000022c48b279d3d2db5cde261cc5c96cd0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e181ecd7b87753ea4521a69cfcd22b12b708d90f.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d3c8630779686e2110d704f0fa2796b6d375261a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7b40403374d21b51b6b061dac2e61cc581a43f93.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4fe8e2d15f4915f8e944790642b7416a4dfab53c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/719b344126eab0243f20d0d1f1ae5daa94910c8d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/decf61958b9391db72571eba434e7b791079dba6.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/09fa1b717a43341f73bc9c7422441821f9e6899a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/feb02c31dce5bc2534d8cdb178eca8782edbd366.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e02442c5078607531e1a3497242df51da50c0536.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/43078d762a9e6032ec7ca6d6c4d2db2f101b3fc2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/995c92dd0daac92739e5014ea985a9b60a55e9be.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/61065ae6a31bc479b41b1ec65965b3bc28fc4403.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/27dfbeee8de1cddb054c2b729846ef9a1925d4c1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b21d70da122171effeb8a607630fc0f01f62edfe.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f6056606e7281a0845adfcbe545583a99f4c6b6b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8f15d867f050e70a9419e3976264ea98bab0c833.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/839eaca9ec62a65a2b8f21669491ed6243be2ea4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/242a1eb882823e4fe2670119304c6c86c4fe06d5.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/91eeacac6114a33a727a25342d74320728fc3a9a.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 2 Human geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cc63f403b525d9404a38dd1655cb389f8a7256eb.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1722ad8037e521ef8f904b161561f3744c46f367.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c13ae3c1b04b7e346ffe93da643a62488bccc6de.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5c0a4136a6f12c27d834cb58d4733a91d458ec39.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/98bb6104e1969474868190ab05a403a56224965d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/eabe2ab9abbb770df432638c30d574658864f28e.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/fa38eb8daeeb21c9326f7c6177b707426a29e4e1.pdf",
-    "text": "",
-    "context": [
-     "Answers and commentary: Paper 1 Physical geography - sample set 1"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/50db2457854b20b3987d9e5ec05f7b944fc97c33.pdf",
-    "text": "",
-    "context": [
-     "Answers and commentary: Paper 2 Human geography - sample set 1"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/819091b0d39c19b10236cb2f718c44946716e9d4.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A4 18pt): Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cb14e988f8031633fd62bd6621c4571f3ae01f41.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A3 36pt): Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/44983f1611565d91caa367e668a94bbf402edabc.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2ab73de3b0af305d2ae09c890767774c6d3d6a36.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/213df258a961e4bdaaba3b71e62d2f872f8529ea.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt): Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/3260bf3e87fae692718f4798ad2847b8fdac47be.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A3 36pt): Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/76842b08dc90712bc6926b96f911de93f311ac95.pdf",
-    "text": "",
-    "context": [
-     "Examiners report: Paper 1 Physical geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ec9836b0343ab17d655e126eac5842407a1a3f11.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 2 Human geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f04c15d5eda3cb3d529b58ca933fc1e9c63b71ef.pdf",
-    "text": "",
-    "context": [
-     "Insert ( Modified A3 36pt): Paper 2 Human geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/34e73c14385578149f4abaa0c9feba3af9df5580.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 2 Human geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/61bdae4d45be38b62fe04ad157f13ab4333ae36d.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt): Paper 2 Human geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/56b70a5988a0561c16d36b688604e967b991f438.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A3 36pt): Paper 2 Human geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4a9d95043749dfc6ea2899a9b04cb46431fefe70.pdf",
-    "text": "",
-    "context": [
-     "Examiners report: Paper 2 Human geography - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c5ae83dba310e0a5659dd0ce6abf33236e71b167.pdf",
-    "text": "",
-    "context": [
-     "Examiners report: 7037C - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/2087844f78c37d9466ef68bb6a368220dc9c7664.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/bd8d042371b2d101e517d2c650450c8b3e9eae94.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 1 Physical geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d52e6d0020936a3ef91e2d97495dbc82d1b25735.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt): Paper 1 Physical geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b0bbbc93fe80b3609d99ebeaaabe438beefa1811.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A3 36pt): Paper 1 Physical geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9319fda374ddcdc5c5b1349b8a1b55d53d139b58.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Physical geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cc0b2c5e81bc4729951729958f442363cf4a9890.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Physical geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6fd5f27c42e36c498d111b68ec64d850f718b35e.pdf",
-    "text": "",
-    "context": [
-     "Examiner report: Paper 1 Physical geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cb3f3168c33aaa7b2b0e763022a0e1298c36bf9a.pdf",
-    "text": "",
-    "context": [
-     "Insert: Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/aa3cc9161bb9a02e289e109776e1253173ecbe4d.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt): Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/49dfd39f4635a2438cf431eee1b3ed1dc3b389c7.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A3 36pt): Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d376f4903a4fbd5807f5ab8542cdf7d90f58d53d.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0e6dc7075012c0346db582681db5a433ca491588.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A4 18pt): Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/bc78112ac2cfd544ccab95af2ed82bb99f208733.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Modified A3 36pt): Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/13a02d98291b7a01e915cf7073bcb8020a41f8ad.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e4b032044948390daeab14dd3f2dd9e640f6de99.pdf",
-    "text": "",
-    "context": [
-     "Examiner report: Paper 2 Human geography - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7f37d1b2ec7520e94252b34a96ba211626461c7a.pdf",
-    "text": "",
-    "context": [
-     "Examiner report: Component 3 NEA Geography fieldwork investigation - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/427e036327d49fa84bcdcb63e5d5466a39e8d277.pdf",
-    "text": "",
-    "context": [
-     "2027 candidate record form - A-level Geography NEA – Independent fieldwork investigation (7037/C)"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b13bf28632a8bf8f1505e57790277c82b8bd6b0d.pdf",
-    "text": "",
-    "context": [
-     "2027 centre declaration sheet"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ec1eba1af2920dfbc32364675f78983cb89d2314.pdf",
-    "text": "",
-    "context": [
-     "2027 Centre declaration form – NEA, fieldwork, live performance and practical programming"
-    ],
-    "why": "could not work out doc type and series"
-   }
-  ],
+  "links": 0,
+  "kept": 0,
+  "skipped": {},
+  "unclassified": [],
   "notes": [
-   "stopped paging after page 12: Next button could not be clicked",
-   "read 12 pages of results"
+   "\"a[href*='.pdf' i], a[href*='filestore' i]\" never appeared"
   ],
-  "doc_types": {
-   "question_paper": 20,
-   "mark_scheme": 20,
-   "insert": 20,
-   "examiner_report": 22
-  },
-  "series": [
-   "June 2025",
-   "June 2024",
-   "June 2023",
-   "June 2022",
-   "November 2021",
-   "November 2020"
-  ],
-  "levels": {
-   "A-level": 82
-  }
+  "doc_types": {},
+  "series": [],
+  "levels": {}
  },
  {
   "seed": "aqa-a-level-history-7042",
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/history/a-level/history-7042/assessment-resources",
   "mode": "browser",
-  "links": 1725,
-  "kept": 513,
+  "links": 1721,
+  "kept": 515,
   "skipped": {
-   "not a paper (modified, specimen, data sheet, etc.)": 629
+   "not a paper (modified, specimen, data sheet, etc.)": 623
   },
   "unclassified": [
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4962b05786c8e45cac5fe5329937d42ca8e2d6d0.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/d04bf16899037a268fcd6d7c8180eb74fd077345.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/886e3768e7bac60a550578dc64f01a2d956918b2.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/1f24af0d720a3355c9b699e95b44c61b5601dac4.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/651d936fc51b17e9fb2bbbf4b068548571e70004.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/768256b194cd262e1fd6238e98f33aa0bb2df480.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9eb7043d79e75efa292994bf56731f8e58c87bb9.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7c1466abbd522edba834be869b7afaa557998391.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/1b621e2dc14fb6fa5bbdc032be5b995c9b110fd1.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/679ad0f49c6578f85d4de60c16fbca858c778a0b.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/42926340d09df68539b8eb17c343191906e08054.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/6870d175a7f5b9d19b5af57295bebae7dde3177f.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/e4b7f534758e5464e7a04b171c50fdb420436724.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/87c0573e9c07b2e68348875034fd74d8b31e4b4a.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/00f11c6b1215711e05f96a67ee3ca967ba9ef6a3.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/986fe385454bdd03897fa7fd0b17d2f3cbe0d3ae.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Component 1C The Tudors: England, 1485-1603 - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/0abee7a36458fde827f9db4a033f47e5ad4e29e9.pdf",
+    "text": "",
+    "context": [
+     "Examiners report: Component 1C The Tudors: England, 1485-1603 - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a4026417d2891774ce4d909c76c9b9f672f614ff.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Component 1C The Tudors: England, 1485-1603 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/943aac39127095dfd3b00d4e04216ee3b93fc408.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/5c644501c88cc62312469d026c248c6ee297d7c9.pdf",
+    "text": "",
+    "context": [
+     "Question paper ( Modified A4 18pt): Component 1C The Tudors: England, 1485-1603 - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4c39d1d8f76859f6c372e6c719a3c18eccb592ae.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Component 1C The Tudors: England, 1485-1603 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/e8d0763494e7a0230d28c7d57770af70b34c057a.pdf",
     "text": "",
@@ -15634,24 +13949,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4962b05786c8e45cac5fe5329937d42ca8e2d6d0.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d04bf16899037a268fcd6d7c8180eb74fd077345.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/886e3768e7bac60a550578dc64f01a2d956918b2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/75430ecbc872319ede7217a1734087317c3fcc35.pdf",
     "text": "",
     "context": [],
@@ -15659,30 +13956,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/72ca285cb7b4d324a4d35f33ba0b1983e09f9adc.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1f24af0d720a3355c9b699e95b44c61b5601dac4.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/651d936fc51b17e9fb2bbbf4b068548571e70004.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/768256b194cd262e1fd6238e98f33aa0bb2df480.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9eb7043d79e75efa292994bf56731f8e58c87bb9.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -15731,18 +14004,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/0af076c5e9c02ae6283f031b8179649a593e310b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7c1466abbd522edba834be869b7afaa557998391.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1b621e2dc14fb6fa5bbdc032be5b995c9b110fd1.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -15952,12 +14213,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e4b7f534758e5464e7a04b171c50fdb420436724.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b7381ff25e7ba870b1f8dc21d848ee13cd54c810.pdf",
     "text": "",
     "context": [],
@@ -15965,12 +14220,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/f82d1b367b44cf8e610b554679feb8920b01c82c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/6870d175a7f5b9d19b5af57295bebae7dde3177f.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -16018,25 +14267,7 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/42926340d09df68539b8eb17c343191906e08054.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/3b802533609b975672ce9addd1d594e9636c3292.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/679ad0f49c6578f85d4de60c16fbca858c778a0b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/87c0573e9c07b2e68348875034fd74d8b31e4b4a.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -16445,12 +14676,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/84cf5d8e8dac51fba3658b905ecc8e493d7c2db1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/943aac39127095dfd3b00d4e04216ee3b93fc408.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -16981,12 +15206,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/97eac665285d39ab260fe49a861db4db2ac8c44c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/00f11c6b1215711e05f96a67ee3ca967ba9ef6a3.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -18504,14 +16723,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5c644501c88cc62312469d026c248c6ee297d7c9.pdf",
-    "text": "",
-    "context": [
-     "Question paper ( Modified A4 18pt): Component 1C The Tudors: England, 1485-1603 - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/e2e49968dc1fd1a6e24d4eb7d5ecce65a28f3eb5.pdf",
     "text": "",
     "context": [
@@ -19106,39 +17317,15 @@
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ac9cdf888c2fcc92bd7b6dfa77ed84738390d67a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/55977b24abaecb0bed55a813998d69a8809c8d57.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/dad741342887f09eaa98c4de136b90c4a72c5eb7.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f87640cc8a7be7677e5e0ac693853de49b18aa3b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
    }
   ],
   "notes": [
    "read 60 pages of results"
   ],
   "doc_types": {
-   "question_paper": 220,
+   "question_paper": 221,
    "mark_scheme": 198,
-   "examiner_report": 95
+   "examiner_report": 96
   },
   "series": [
    "June 2025",
@@ -19152,7 +17339,7 @@
    "June 2000"
   ],
   "levels": {
-   "A-level": 513
+   "A-level": 515
   }
  },
  {
@@ -22206,24 +20393,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ae61050ea0ae778df2f1783c867ef1b758356d94.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b7ea83fa5fa6369178b22d3cf70930700749a14a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cefc77fdffbd4dfefcb5a8087ca6852ea04ab245.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/47be340db8e0b5d97cac9f90b3f483d1c059d7a6.pdf",
     "text": "",
     "context": [
@@ -22245,12 +20414,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/852a6ec838d30d3997a43030fc0be6ff1ee36563.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/27866f391c1607b6644433bad72a7aaf63493d4e.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -22282,6 +20445,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/cefc77fdffbd4dfefcb5a8087ca6852ea04ab245.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/195fe5d932bdb91b313047c8265569b6832dc98f.pdf",
     "text": "",
     "context": [],
@@ -22289,6 +20458,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/dcea731785a84c2ac208f971b47013056b5cff66.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/27866f391c1607b6644433bad72a7aaf63493d4e.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -22490,6 +20665,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/ae61050ea0ae778df2f1783c867ef1b758356d94.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/1e0c42b7b57fd396354719cc469b0ddc251db81c.pdf",
     "text": "",
     "context": [],
@@ -22515,6 +20696,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/bd8e1e898af11883126f9a8ca592d1358961ee01.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/b7ea83fa5fa6369178b22d3cf70930700749a14a.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -22917,12 +21104,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/e7bec0a4bacfa10651fdb1bfe23fb35e35e6a7cc.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ebe97e2f4b6b85f8a610ff569ada774ff8d9d8de.pdf",
     "text": "",
     "context": [
@@ -22931,18 +21112,42 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/77d6435438a38faba19950f4886953cc0f6b595b.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a2d7c8d62cd518f017c80012bcb2317def610ae2.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c23bd63a143eb47b2986371ccea389688ef375ca.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/ea161256f3d3ca18e41d54a89009152272e5adbc.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/e7bec0a4bacfa10651fdb1bfe23fb35e35e6a7cc.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/d015c928a4a5020e0cdc0bdc000de669db3d2a60.pdf",
     "text": "",
     "context": [
      "Mark scheme: Paper 1 Education with theory and methods - June 2025"
     ],
     "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/77d6435438a38faba19950f4886953cc0f6b595b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/7f29ede4c4beef631f922178059ccde054e866bc.pdf",
@@ -22963,12 +21168,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a2d7c8d62cd518f017c80012bcb2317def610ae2.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b658e8df105b8bf03c243f591455915bc13bb633.pdf",
     "text": "",
     "context": [],
@@ -22981,19 +21180,7 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c23bd63a143eb47b2986371ccea389688ef375ca.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b387c3b545f0fe49e14e3c3c05558fac5e4012f6.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ea161256f3d3ca18e41d54a89009152272e5adbc.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -25400,6 +23587,12 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a60eb4b331ce3306a20c405bee09d3de40d8697d.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/fb8de9d73af5ca35ce0ae021ea618388c9d0ecf0.pdf",
     "text": "",
     "context": [],
@@ -25407,12 +23600,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/1c9658669a5f9007101a6d2f7928373953c7565c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a60eb4b331ce3306a20c405bee09d3de40d8697d.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -29500,18 +27687,18 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/8b13df44ff536ded2f78874d69de9dd50b41f52c.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt): Paper 1 Language, the individual and society - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b0c120d487d314e9c1ca5b67394a5b927882ea27.pdf",
     "text": "",
     "context": [
      "Question paper (Modified A4 18pt): Paper 1 Language, the individual and society - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/8b13df44ff536ded2f78874d69de9dd50b41f52c.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A4 18pt): Paper 1 Language, the individual and society - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -43572,13 +41759,13 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a426cd898053aad6a1881aec534871501dc5f9a5.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/44222132cb80c6dcbdde8ce84d988f17ea0daeb9.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/44222132cb80c6dcbdde8ce84d988f17ea0daeb9.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a426cd898053aad6a1881aec534871501dc5f9a5.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -44389,9 +42576,9 @@
     "url": "https://www.aqa.org.uk/files/aam.11708/7893a2228255586a54ce6c52fae97850f57fd33f.pdf",
     "text": "8365 L2 Further Maths - Calculus - Finding dy dx and the equations of tangents and normals - Mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 268.61 KB • Published: 01 Aug 2024",
     "context": [
-     "8365 L2 Further Maths - Coordinate Geometry - Gradients of parallel and perpendicular lines topic tests",
      "Explore your results with Data Insights",
-     "10"
+     "10",
+     "AQA Certificate Level 2 Further Mathematics8365"
     ],
     "why": "could not work out series"
    },
@@ -44479,9 +42666,9 @@
     "url": "https://www.aqa.org.uk/files/aam.11868/ab4f27080824efa1cb6b9a88c9e8951cd8fdd52d.pdf",
     "text": "8365 L2 Further Maths - Algebra - Quadratic sequences - Mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 272.99 KB • Published: 01 Aug 2024",
     "context": [
+     "8365 L2 Further Maths - Algebra - nth term and limiting value - Mark scheme",
      "Explore your results with Data Insights",
-     "10",
-     "AQA Certificate Level 2 Further Mathematics8365"
+     "10"
     ],
     "why": "could not work out series"
    },
@@ -44489,9 +42676,9 @@
     "url": "https://www.aqa.org.uk/files/aam.11886/4e4e372495418a3850b1dfbeac420617af8a2653.pdf",
     "text": "8365 L2 Further Maths - Geometry - Trigonometric identities - Mark scheme AQA Certificate Level 2 Further Mathematics • PDF • 284.8 KB • Published: 01 Aug 2024",
     "context": [
-     "8365 L2 Further Maths - Algebra - Quadratic sequences - Mark scheme",
      "Explore your results with Data Insights",
-     "10"
+     "10",
+     "AQA Certificate Level 2 Further Mathematics8365"
     ],
     "why": "could not work out series"
    },
@@ -44504,12 +42691,6 @@
      "10"
     ],
     "why": "could not work out series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0133a406c43fd5d3a86d0d3f4192c51763d2419c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/201e4bdb17cfc04925adb0d0495d49d73f777523.pdf",
@@ -44908,6 +43089,12 @@
      "Examiners report: Paper 2 Calculator - June 2024"
     ],
     "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/0133a406c43fd5d3a86d0d3f4192c51763d2419c.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/2616c801f4c5a35998d0e460fe859592de62b2b8.pdf",
@@ -50869,14 +49056,6 @@
   },
   "unclassified": [
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9503c33d60e7e2350a43be9516bd07b86921f24c.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Physical geography and people and the environment - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/966ee391fba60d910ec4a37473800e9e6e95ca13.pdf",
     "text": "",
     "context": [
@@ -51077,6 +49256,14 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9503c33d60e7e2350a43be9516bd07b86921f24c.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Physical geography and people and the environment - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ddbcd55aa2ec9edd1aa1afd50fcf6e69d9eef69f.pdf",
     "text": "",
     "context": [],
@@ -51224,8 +49411,8 @@
    "read 6 pages of results"
   ],
   "doc_types": {
-   "question_paper": 16,
    "mark_scheme": 16,
+   "question_paper": 16,
    "examiner_report": 11
   },
   "series": [
@@ -57584,7 +55771,7 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d3c30f61e87189940123b4abc662b23c68ab0dfb.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9bc3d263ec9664cb96bdf2aeb0729e30468f9a4a.pdf",
     "text": "",
     "context": [
      "Notes and guidance: Interpreting the assessment objectives for SEND learners"
@@ -57735,7 +55922,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d3c30f61e87189940123b4abc662b23c68ab0dfb.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9bc3d263ec9664cb96bdf2aeb0729e30468f9a4a.pdf",
     "text": "",
     "context": [
      "Notes and guidance: Interpreting the assessment objectives for SEND learners"
@@ -57886,7 +56073,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d3c30f61e87189940123b4abc662b23c68ab0dfb.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9bc3d263ec9664cb96bdf2aeb0729e30468f9a4a.pdf",
     "text": "",
     "context": [
      "Notes and guidance: Interpreting the assessment objectives for SEND learners"
@@ -58037,7 +56224,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d3c30f61e87189940123b4abc662b23c68ab0dfb.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9bc3d263ec9664cb96bdf2aeb0729e30468f9a4a.pdf",
     "text": "",
     "context": [
      "Notes and guidance: Interpreting the assessment objectives for SEND learners"
@@ -58188,7 +56375,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d3c30f61e87189940123b4abc662b23c68ab0dfb.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9bc3d263ec9664cb96bdf2aeb0729e30468f9a4a.pdf",
     "text": "",
     "context": [
      "Notes and guidance: Interpreting the assessment objectives for SEND learners"
@@ -58339,7 +56526,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d3c30f61e87189940123b4abc662b23c68ab0dfb.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9bc3d263ec9664cb96bdf2aeb0729e30468f9a4a.pdf",
     "text": "",
     "context": [
      "Notes and guidance: Interpreting the assessment objectives for SEND learners"
@@ -59563,12 +57750,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0d00abca79df8bb816bf5f57071f684f88a57005.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b36bd7c9085930374c81e5a8b3f1d3d44c7d157d.pdf",
     "text": "",
     "context": [
@@ -59583,6 +57764,12 @@
      "Mark scheme: Paper 2 Influences of marketing and finance on business activity - June 2025"
     ],
     "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/0d00abca79df8bb816bf5f57071f684f88a57005.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/0d1d4336afddf00224c7139a305cc0c28ca8430c.pdf",
@@ -62300,6 +60487,12 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/41c4b3e8fcfd678b03c9455881144ae68d74f3e5.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/d6f9edf0b0ac0dcc459fa48b09a3c5642af71c95.pdf",
     "text": "",
     "context": [],
@@ -63050,12 +61243,6 @@
      "Question paper (Higher): Paper 4 - June 2024"
     ],
     "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/41c4b3e8fcfd678b03c9455881144ae68d74f3e5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/f8a9155c9c2d80c6424ea0bd061ed3dbf9fab4b4.pdf",
@@ -64955,9 +63142,9 @@
     "url": "https://www.aqa.org.uk/files/resources.science.AQA-8464-RIS-2019_PDF/32b0f889f137b1b15c0a0b5b19ebd810ff367454.pdf",
     "text": "Insight report: results at a glance - June 2019 - GCSE Combined Science: Trilogy 8464 GCSE Combined Science: Trilogy • PDF • 480.13 KB • Published: 17 Sep 2019",
     "context": [
-     "Question paper ( Modified A4 18pt) (Higher): Paper 1 Physics - June 2024 - Science",
      "Explore your results with Data Insights",
-     "10"
+     "10",
+     "GCSE Combined Science: Trilogy8464"
     ],
     "why": "could not work out doc type"
    },
@@ -64965,9 +63152,9 @@
     "url": "https://www.aqa.org.uk/files/resources.science.AQA-8464-RIS_PDF/8922330a4cd377ab363760ebbaf544ab49c10729.pdf",
     "text": "Insight report: results at a glance - June 2018 - GCSE Combined Science: Trilogy 8464 GCSE Combined Science: Trilogy • PDF • 1.24 MB • Published: 17 Sep 2018",
     "context": [
-     "Insert (Modified A4 18pt) (Foundation; Higher) : equations sheet - June 2022 - Physics",
      "Explore your results with Data Insights",
-     "10"
+     "10",
+     "GCSE Combined Science: Trilogy8464"
     ],
     "why": "could not work out doc type"
    },
@@ -65078,18 +63265,72 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/443d1b55eb5d5071ef530a684092dd5ebb493c59.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/799b6708084fc1dbc7cd44fbe714f0eb4334478a.pdf",
     "text": "",
-    "context": [
-     "Question paper (Higher): Paper 1 Chemistry - June 2025"
-    ],
-    "why": "could not work out doc type"
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/64e470935a0d6b05f716ab5c877221fb7955ef0c.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/53ad6a26485e7c9c5caf5c3411d3ed99e0a11ea3.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/bae7e15087eacaa9765c45ff5c4787cef97aab5b.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c3f850f424afe9593401338e482f6faf32e7ab69.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/5f8bd169dfc64f9e5feac4cd776153ff18d6b17f.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/41c4b3e8fcfd678b03c9455881144ae68d74f3e5.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7553706450ba0348a59b73e3dda1269f5ac25d3b.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/93db1d6986676a41e1c828250028b078484f06cf.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/9555e568f9626fb73491b7a1d9abf678d95f70bc.pdf",
     "text": "",
     "context": [
      "Question paper (Higher): Paper 2 Chemistry - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/443d1b55eb5d5071ef530a684092dd5ebb493c59.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Higher): Paper 1 Chemistry - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -65164,6 +63405,14 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c72b147aaf5bbe7a2df6b5a6b9820a3b64dfd459.pdf",
+    "text": "",
+    "context": [
+     "Insert (Foundation): Paper 1 Chemistry - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/0830e28c5c467b0194cb0ea4a1f77b0def2331b9.pdf",
     "text": "",
     "context": [
@@ -65176,14 +63425,6 @@
     "text": "",
     "context": [
      "Question paper (Foundation): Paper 2 Chemistry - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c72b147aaf5bbe7a2df6b5a6b9820a3b64dfd459.pdf",
-    "text": "",
-    "context": [
-     "Insert (Foundation): Paper 1 Chemistry - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -65260,18 +63501,18 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/83b24f0c972f309cb452cdc82e3800aef7a0b2b8.pdf",
-    "text": "",
-    "context": [
-     "Insert (Higher): Paper 2 Physics - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/6ba459362d2807112bdc15550f69a4960eece8da.pdf",
     "text": "",
     "context": [
      "Insert (Higher): Paper 2 Chemistry - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/83b24f0c972f309cb452cdc82e3800aef7a0b2b8.pdf",
+    "text": "",
+    "context": [
+     "Insert (Higher): Paper 2 Physics - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -65372,12 +63613,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/799b6708084fc1dbc7cd44fbe714f0eb4334478a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/afe4c169d2ce96e8b9322b0a58f93fb4cd3fb076.pdf",
     "text": "",
     "context": [],
@@ -65397,12 +63632,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/c9ff1feffc6002f38bee165fb8dfa3ed1368a41b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/64e470935a0d6b05f716ab5c877221fb7955ef0c.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -65477,12 +63706,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/721df445a5243120449fb3dd14fd31fa2554e972.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/53ad6a26485e7c9c5caf5c3411d3ed99e0a11ea3.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -65680,12 +63903,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/bae7e15087eacaa9765c45ff5c4787cef97aab5b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/5ed0c2d076d3c04cc2e01c7ef8315b748d8f1333.pdf",
     "text": "",
     "context": [],
@@ -65723,12 +63940,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/4ba36d1296b8b00debdbca594f8e502c14b703ea.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c3f850f424afe9593401338e482f6faf32e7ab69.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -65779,12 +63990,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/412d899006b62c9668ec41818f0ccbf892ed7d0f.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5f8bd169dfc64f9e5feac4cd776153ff18d6b17f.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -67354,12 +65559,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/41c4b3e8fcfd678b03c9455881144ae68d74f3e5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/8922330a4cd377ab363760ebbaf544ab49c10729.pdf",
     "text": "",
     "context": [],
@@ -67938,12 +66137,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7553706450ba0348a59b73e3dda1269f5ac25d3b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/49c7833019e35293b9ed56b5323e64384183a4fe.pdf",
     "text": "",
     "context": [],
@@ -67951,12 +66144,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/a09b0040fca11249fde011232a06786e657e2f20.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/93db1d6986676a41e1c828250028b078484f06cf.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -68658,13 +66845,13 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9c915ce11113baa402b7f38a24ed0b28be9bc58e.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/802591934c5ab724411b6a9a723f74fcab057ed7.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/802591934c5ab724411b6a9a723f74fcab057ed7.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9c915ce11113baa402b7f38a24ed0b28be9bc58e.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -68692,18 +66879,18 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/ecef7166544c882ff50bbd1c7c74ff32c1b5c05d.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/d5a1bd4a1e4a206710d017ef563cfecba3038d22.pdf",
     "text": "",
     "context": [
      "Question paper: Paper 1B Computational thinking and programming skills (Python) - June 2025"
     ],
     "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ecef7166544c882ff50bbd1c7c74ff32c1b5c05d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/08f5a15be46059e4245197df7b488272a67e0d63.pdf",
@@ -70053,22 +68240,22 @@
   },
   "unclassified": [
    {
-    "url": "https://www.aqa.org.uk/files/fe41ac06-c662-40cc-b068-b209981f4852/62bf3cf2e872455e45d0ead37b7acfc2a58a69dd.pdf",
-    "text": "2027 Candidate record form - GCSE Drama: Component 2 – Devising drama (8261/C) - Drama GCSE Drama • PDF • 167.59 KB • Published: 16 Sep 2026",
-    "context": [
-     "2025 Play approval form GCSE Drama (8261) Component 3 – Texts in Practice (8261/X)|Play approval form: Component 3 NEA Texts in practice 2025 - Drama",
-     "Explore your results with Data Insights",
-     "10"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://www.aqa.org.uk/files/dc4c7292-d57d-4596-899c-8b314a9e373f/f145597b2a85a08975adcee7389e45f831e05fb8.pdf",
     "text": "Standardisation: example work index - Drama GCSE Drama • PDF • 173.6 KB • Published: 12 Oct 2026",
     "context": [
+     "Examiner report: Component 3 NEA Texts in practice - June 2022 - Drama",
      "Explore your results with Data Insights",
-     "10",
-     "GCSE Drama8261"
+     "10"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://www.aqa.org.uk/files/fe41ac06-c662-40cc-b068-b209981f4852/62bf3cf2e872455e45d0ead37b7acfc2a58a69dd.pdf",
+    "text": "2027 Candidate record form - GCSE Drama: Component 2 – Devising drama (8261/C) - Drama GCSE Drama • PDF • 167.59 KB • Published: 16 Sep 2026",
+    "context": [
+     "Examiners report: Component 3 NEA Texts in practice - June 2024 - Drama",
+     "Explore your results with Data Insights",
+     "10"
     ],
     "why": "could not work out doc type"
    },
@@ -70086,7 +68273,7 @@
     "url": "https://www.aqa.org.uk/files/c54150ed-802b-4d1d-b8c8-57aa7397896f/a1fd4e339b0d4c47ae42fbbfc8acca23a5bfefd5.pdf",
     "text": "Answers and commentary: Component 1 Section B- The Crucible - Drama GCSE Drama • PDF • 1.98 MB • Published: 16 Apr 2024",
     "context": [
-     "Notes and guidance: Artificial intelligence (AI) guidance",
+     "2027 Candidate record form - GCSE Drama: Component 3 - Texts in practice (8261/X) - Drama",
      "Explore your results with Data Insights",
      "10"
     ],
@@ -70169,14 +68356,6 @@
      "2027 Statement of Dramatic Intentions - GCSE Drama: Component 3 - Texts in practice (8261/X) - Drama",
      "Explore your results with Data Insights",
      "10"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/62bf3cf2e872455e45d0ead37b7acfc2a58a69dd.pdf",
-    "text": "",
-    "context": [
-     "2027 Candidate record form - GCSE Drama: Component 2 – Devising drama (8261/C)"
     ],
     "why": "could not work out doc type and series"
    },
@@ -70375,6 +68554,14 @@
      "Examiners report: Component 3 NEA Texts in practice - June 2024"
     ],
     "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/62bf3cf2e872455e45d0ead37b7acfc2a58a69dd.pdf",
+    "text": "",
+    "context": [
+     "2027 Candidate record form - GCSE Drama: Component 2 – Devising drama (8261/C)"
+    ],
+    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/abf513c31b280d091ba2f4f2ed91b8d2b35fd266.pdf",
@@ -71635,6 +69822,48 @@
   },
   "unclassified": [
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/b751f11daf7a5c47825d968601d151b7ad80b2ad.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c74afbe1f3124072eaf2bfe246e619c631ee34bb.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/d50e31ae4519626e04932ddbaed5e5886b51bac8.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/f25a2c6d91fb615ef4cf2a9d57547dc9aa30bd30.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/7c8d4b42c166fe23dcb63897becd7682b0fbea94.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/fec031c241c95c0df79dbe732fcf0342a22cae4c.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/577bf038cab56cf0525d80ff2328e04818e302ae.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf",
     "text": "",
     "context": [
@@ -71649,31 +69878,7 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/7c8d4b42c166fe23dcb63897becd7682b0fbea94.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/2ff0fa42fb06272872f84fc7be38bb580f7f864d.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/fec031c241c95c0df79dbe732fcf0342a22cae4c.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c74afbe1f3124072eaf2bfe246e619c631ee34bb.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d50e31ae4519626e04932ddbaed5e5886b51bac8.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -71697,31 +69902,13 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f25a2c6d91fb615ef4cf2a9d57547dc9aa30bd30.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/c71be1ac8f2fa56828486d910af31933f585de65.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b751f11daf7a5c47825d968601d151b7ad80b2ad.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/36dadca33c2f23a32acd7087f3d5e8b23ff15553.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/577bf038cab56cf0525d80ff2328e04818e302ae.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -73908,20 +72095,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf",
-    "text": "",
-    "context": [
-     "Notes and guidance: Grade boundary guidance"
-    ],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/61898b0f9f8cf99e4667cbf6506c37671b88ff29.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/520588788cf86268444859c6ac08afef000bbbe6.pdf",
     "text": "",
     "context": [],
@@ -73935,6 +72108,20 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/31cb64da1469e0419df64cd4e8710284eea82274.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/f0a4e1d87914c3473782805ff90e68cef56cc4a4.pdf",
+    "text": "",
+    "context": [
+     "Notes and guidance: Grade boundary guidance"
+    ],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/61898b0f9f8cf99e4667cbf6506c37671b88ff29.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -80954,25 +79141,19 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/72d34e5189a434cc6a361e9b246ac3a124b6ce2e.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/347435c28374336437b92e6619e1bdf1475b8403.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/d37e30e9708785e6c67af2cfc72b50ce52ebae75.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/72d34e5189a434cc6a361e9b246ac3a124b6ce2e.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f04825cbd827700818aa49e0c00fae0a80c7e275.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/d37e30e9708785e6c67af2cfc72b50ce52ebae75.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -80991,6 +79172,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b313c0d5f33964224ffad4be9138686e0ad8fa8c.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/f04825cbd827700818aa49e0c00fae0a80c7e275.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -81493,6 +79680,12 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/497cb7d82fc035f1bc44219edd9f7e23ea37b90a.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/1c3e60b181036bcbc2e37485aaaf446ba5f34d9f.pdf",
     "text": "",
     "context": [
@@ -81501,24 +79694,10 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/497cb7d82fc035f1bc44219edd9f7e23ea37b90a.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/3079bd0b0bf255ac16e714fa5ce29db1a8ed5ee8.pdf",
     "text": "",
     "context": [
      "Mark scheme (Higher): Paper 2 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/f129a4d7c8cd3d148b6247f8acf9274b4f026687.pdf",
-    "text": "",
-    "context": [
-     "Insert (Higher): Paper 2 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -81533,6 +79712,40 @@
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/f129a4d7c8cd3d148b6247f8acf9274b4f026687.pdf",
+    "text": "",
+    "context": [
+     "Insert (Higher): Paper 2 - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/eb8f2d852f7db75838b9ec4aab15f6d478c34541.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/3e1943a268d3dbee2b4c93fc89b0629fe6735611.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/a26bb85f09fa4a6965ce265fbfe670a57a1154a1.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/65ad571eae3075898c98e438b558c8a5de28afa2.pdf",
+    "text": "",
+    "context": [
+     "Insert (Modified A4 18pt) (Higher): Paper 1 - June 2025"
+    ],
+    "why": "could not work out doc type"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/1a8bd813ea75c23e805529b24f9e89c31aa371b5.pdf",
@@ -81613,19 +79826,7 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/eb8f2d852f7db75838b9ec4aab15f6d478c34541.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/188771ba9634ea5f4440aa4861eb2fbc06bd6a8e.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/3e1943a268d3dbee2b4c93fc89b0629fe6735611.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -81655,6 +79856,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/ff45fdfd59b2fc36b451cc0f23e91178683453b2.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/323b376eecda7d4a56fd2272517ed0bffec5756c.pdf",
     "text": "",
     "context": [],
@@ -81662,12 +79869,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/451708b0d62253d5e3de629084c929e8ee82f13b.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/ff45fdfd59b2fc36b451cc0f23e91178683453b2.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -81715,12 +79916,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/a26bb85f09fa4a6965ce265fbfe670a57a1154a1.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/2e2d045f1f79354080deff749a40f11b3c962579.pdf",
     "text": "",
     "context": [],
@@ -81757,18 +79952,18 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/269026843416aa3b12fae41888eefddd2d9d8c80.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/7188b187220753525bbb59e8104e2959f5069738.pdf",
     "text": "",
     "context": [
      "Mark scheme (Higher): Paper 1 - June 2024"
     ],
     "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/269026843416aa3b12fae41888eefddd2d9d8c80.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/4b9cb033c63d87e019b27cf8d2bd7fe92b261f99.pdf",
@@ -82699,14 +80894,6 @@
     "text": "",
     "context": [
      "Question paper (Modified A3 36pt) (Foundation): Paper 1 - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/65ad571eae3075898c98e438b558c8a5de28afa2.pdf",
-    "text": "",
-    "context": [
-     "Insert (Modified A4 18pt) (Higher): Paper 1 - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -84692,7 +82879,7 @@
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8061/assessment-resources",
   "mode": "browser",
-  "links": 385,
+  "links": 386,
   "kept": 130,
   "skipped": {
    "not a paper (modified, specimen, data sheet, etc.)": 103
@@ -85737,6 +83924,14 @@
      "Examiner report: Paper 1 Section B Thematics studies - June 2025"
     ],
     "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/35fde9fdc7231125ff48f6e43ede9e75ffdce879.pdf",
+    "text": "",
+    "context": [
+     "Answers and commentary: 2026 Assessment updates"
+    ],
+    "why": "could not work out doc type and series"
    }
   ],
   "notes": [
@@ -85766,7 +83961,7 @@
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/assessment-resources",
   "mode": "browser",
-  "links": 743,
+  "links": 744,
   "kept": 239,
   "skipped": {
    "not a paper (modified, specimen, data sheet, etc.)": 214
@@ -85803,6 +83998,34 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/97def0be5689ef1fcd8bce9253235db0c851f424.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/33c3b4e98c564dc8a7c97b3339e48b03d8aa5901.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/c0339ed81d9cd49663a1ac9d556875831cd99b24.pdf",
+    "text": "",
+    "context": [
+     "Question paper - Paper 1 Option 3 The study of religions (Christianity) - Sample set 1 from 2026"
+    ],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/9df47a25793280d9e7296d7d97366d9170a65b11.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Option 3 The study of religions (Christianity) - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/9b43fc703547a331d4a4c75353933f2b0fa2eb2c.pdf",
     "text": "",
     "context": [],
@@ -85815,63 +84038,13 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/0237b88577fe7fc8c0ca3fc3bbd54cffbf870020.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Option 3 The study of religions (Christianity) - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/b0a1c85085744d9790e8f4ce954bf77c3fbaefbf.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Option 3 The study of religions (Christianity) - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4d90501667c9d52a25c3e9435c682cd3b82d4a2a.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme: Paper 1 Option 1 The study of religions (Buddhism) - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/18ac96de103f5140b1500145f4137efdfd61a0ac.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Option 1 The study of religions (Buddhism) - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4d1bd7ee364cb7ce0dd767759ba74968feacd1a8.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/292b01fc86a6c3d4717f339791686d4b02ce14f8.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/601b3415d097f228689468df8bcb858d5e9c24d5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/64d1b51f1bea5a12a117a222ebb8c4ab1426a228.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/97def0be5689ef1fcd8bce9253235db0c851f424.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4d1bd7ee364cb7ce0dd767759ba74968feacd1a8.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -85890,6 +84063,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/f918afcf91cdf6ba13f7ae723890f074a1ecb484.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/292b01fc86a6c3d4717f339791686d4b02ce14f8.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -85931,12 +84110,6 @@
     "why": "could not work out doc type and series"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/33c3b4e98c564dc8a7c97b3339e48b03d8aa5901.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/583ff0e8f4ef38d96482096297ed84392b06b004.pdf",
     "text": "",
     "context": [],
@@ -85968,6 +84141,12 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/aab9faf9d5d131d291bac5cb08d0f1412270a881.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/601b3415d097f228689468df8bcb858d5e9c24d5.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -86036,14 +84215,6 @@
     "url": "https://cdn.sanity.io/files/p28bar15/green/49002d7dbae8c4631effaff38009c8c7959fd8f5.pdf",
     "text": "",
     "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/c0339ed81d9cd49663a1ac9d556875831cd99b24.pdf",
-    "text": "",
-    "context": [
-     "Question paper - Paper 1 Option 3 The study of religions (Christianity) - Sample set 1 from 2026"
-    ],
     "why": "could not work out doc type and series"
    },
    {
@@ -86273,14 +84444,6 @@
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/9df47a25793280d9e7296d7d97366d9170a65b11.pdf",
-    "text": "",
-    "context": [
-     "Question paper: Paper 1 Option 3 The study of religions (Christianity) - June 2024"
-    ],
-    "why": "could not work out doc type"
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/abbd5e42ac0a39a128ea528c19264c3d6eb20feb.pdf",
@@ -87279,10 +85442,42 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4d90501667c9d52a25c3e9435c682cd3b82d4a2a.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 1 Option 1 The study of religions (Buddhism) - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/18ac96de103f5140b1500145f4137efdfd61a0ac.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Option 1 The study of religions (Buddhism) - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/34f35b8afac2f8fb2d4906fd0fffbb24c9362ad6.pdf",
     "text": "",
     "context": [
      "Question paper: Paper 1 Option 2 The study of religions (Catholic Christianity) - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/0237b88577fe7fc8c0ca3fc3bbd54cffbf870020.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme: Paper 1 Option 3 The study of religions (Christianity) - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/b0a1c85085744d9790e8f4ce954bf77c3fbaefbf.pdf",
+    "text": "",
+    "context": [
+     "Question paper: Paper 1 Option 3 The study of religions (Christianity) - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -87735,6 +85930,14 @@
      "Examiner report: Paper 2B Textual studies - June 2025"
     ],
     "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/35fde9fdc7231125ff48f6e43ede9e75ffdce879.pdf",
+    "text": "",
+    "context": [
+     "Answers and commentary: 2026 Assessment updates"
+    ],
+    "why": "could not work out doc type and series"
    }
   ],
   "notes": [
@@ -89247,6 +87450,12 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/5f27038b2cf6ad858be063d5755ecc913721f47f.pdf",
+    "text": "",
+    "context": [],
+    "why": "could not work out doc type and series"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/b0709cc9eef440ea6cb598e912d7ff3f6a7f086a.pdf",
     "text": "",
     "context": [],
@@ -89254,12 +87463,6 @@
    },
    {
     "url": "https://cdn.sanity.io/files/p28bar15/green/312e3b745defb529a6b9fe2bee6aaaf7a0a9aac5.pdf",
-    "text": "",
-    "context": [],
-    "why": "could not work out doc type and series"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/5f27038b2cf6ad858be063d5755ecc913721f47f.pdf",
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
@@ -89392,9 +87595,9 @@
     "url": "https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-8698SF-AM-JUN24_PDF/5e9438426d3b4752e303c546cbc47952e1a7ea56.pdf",
     "text": "Assessment material (Foundation): Paper 2 Speaking - June 2024 - Spanish GCSE Spanish • PDF • 435.6 KB • Published: 11 Jul 2025",
     "context": [
-     "Question paper (Foundation): Paper 3 Reading - June 2024 - Spanish",
      "Filter",
-     "10"
+     "10",
+     "GCSE Spanish8698"
     ],
     "why": "could not work out doc type"
    },
@@ -89467,30 +87670,6 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/cc15f5faf97af83256b995feb3010f0aae142948.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme (Higher): Paper 3 Reading - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/1128bf3f0764968ac8e1117516ecce8a3bea9076.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Higher): Paper 3 Reading - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/06151bbee5e315078fadc15fd97cd5f559f6620a.pdf",
-    "text": "",
-    "context": [
-     "Question paper (Higher): Paper 1 Listening - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/ebcd85184c18033946bec4c8870e0efee464fd50.pdf",
     "text": "",
     "context": [],
@@ -89557,10 +87736,26 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/1128bf3f0764968ac8e1117516ecce8a3bea9076.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Higher): Paper 3 Reading - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/1c0b3759e98ccde5184d4d595e7e14b751383b57.pdf",
     "text": "",
     "context": [
      "Mark scheme (Higher): Paper 3 Reading - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/cc15f5faf97af83256b995feb3010f0aae142948.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme (Higher): Paper 3 Reading - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -89599,6 +87794,14 @@
     "why": "could not work out doc type and series"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/61264b8bb5b21b342b915ae7f25b88fa4d6f441a.pdf",
+    "text": "",
+    "context": [
+     "Question paper (Higher): Paper 4 Writing - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/3d14d81af5364d40023c3a718bda0377295073f5.pdf",
     "text": "",
     "context": [
@@ -89615,42 +87818,10 @@
     "why": "could not work out doc type"
    },
    {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/61264b8bb5b21b342b915ae7f25b88fa4d6f441a.pdf",
+    "url": "https://cdn.sanity.io/files/p28bar15/green/06151bbee5e315078fadc15fd97cd5f559f6620a.pdf",
     "text": "",
     "context": [
-     "Question paper (Higher): Paper 4 Writing - June 2024"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/753e4db2ed10a9530ef59bd7990fb95880c02713.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme (Foundation): Paper 1 Listening - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/88a9698a7cc1959a28ee1f01debaffda91c52372.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme (Higher): Paper 1 Listening - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/4518e5d8153d3d538d1f05ac165871ee586d1599.pdf",
-    "text": "",
-    "context": [
-     "Transcript (Higher): Paper 1 Listening - June 2025"
-    ],
-    "why": "could not work out doc type"
-   },
-   {
-    "url": "https://cdn.sanity.io/files/p28bar15/green/bccdeb3f80caa3928644b7ba09659d97c0f325bc.pdf",
-    "text": "",
-    "context": [
-     "Mark scheme (Foundation): Paper 2 Speaking - June 2025"
+     "Question paper (Higher): Paper 1 Listening - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -90643,6 +88814,22 @@
     "why": "could not work out doc type"
    },
    {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/753e4db2ed10a9530ef59bd7990fb95880c02713.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme (Foundation): Paper 1 Listening - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/88a9698a7cc1959a28ee1f01debaffda91c52372.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme (Higher): Paper 1 Listening - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
     "url": "https://cdn.sanity.io/files/p28bar15/green/7917260428251d73fb6c4558fb0c16c645ccda98.pdf",
     "text": "",
     "context": [],
@@ -90739,6 +88926,22 @@
     "text": "",
     "context": [
      "Question paper (Foundation): Paper 4 Writing - June 2024"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/4518e5d8153d3d538d1f05ac165871ee586d1599.pdf",
+    "text": "",
+    "context": [
+     "Transcript (Higher): Paper 1 Listening - June 2025"
+    ],
+    "why": "could not work out doc type"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/bccdeb3f80caa3928644b7ba09659d97c0f325bc.pdf",
+    "text": "",
+    "context": [
+     "Mark scheme (Foundation): Paper 2 Speaking - June 2025"
     ],
     "why": "could not work out doc type"
    },
@@ -96015,7 +94218,7 @@
   "board": "AQA",
   "url": "https://www.aqa.org.uk/subjects/projects/level-three/projects-7993/assessment-resources",
   "mode": "browser",
-  "links": 34,
+  "links": 35,
   "kept": 12,
   "skipped": {
    "not a paper (modified, specimen, data sheet, etc.)": 7
@@ -96122,6 +94325,14 @@
     "text": "",
     "context": [],
     "why": "could not work out doc type and series"
+   },
+   {
+    "url": "https://cdn.sanity.io/files/p28bar15/green/46e72750304a979f86d9e38ab295984de95840a3.pdf",
+    "text": "",
+    "context": [
+     "Examiner report: 7993 - November 2025"
+    ],
+    "why": "could not work out doc type"
    }
   ],
   "notes": [
